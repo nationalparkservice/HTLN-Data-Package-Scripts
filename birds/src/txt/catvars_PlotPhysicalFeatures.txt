@@ -1,0 +1,15 @@
+attributeName	code	definition
+AspectVariability	Unknown	
+AspectVariability	high	
+AspectVariability	low	
+AspectVariability	medium	
+HabitatType	Unknown	
+HabitatType	fallow field	
+HabitatType	prairie	
+HabitatType	riparian	
+HabitatType	shrubland	
+HabitatType	woodland	
+SlopeVariability	Unknown	
+SlopeVariability	high	
+SlopeVariability	low	
+SlopeVariability	medium	

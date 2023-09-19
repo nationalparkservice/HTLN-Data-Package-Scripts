@@ -1,0 +1,19 @@
+attributeName	attributeDefinition	class	unit	dateTimeFormatString	missingValueCode	missingValueCodeExplanation
+Plot		categorical				
+Event		categorical				
+Temperature_C		numeric	Celcius			
+Wind		categorical			
+Precip		categorical			
+Percent_Cloud		numeric	Percent			
+Noise		categorical			
+ObservationNumber		numeric	NA
+Interval		categorical				
+AOUCode		character				
+Distance		numeric	meters			
+DetectionType		categorical			
+Sex		categorical				
+Age		categorical				
+FlockSize		numeric	no_individuals			
+IsPreviousPlot		categorical			
+IsFlyover		categorical			
+Comments		character			

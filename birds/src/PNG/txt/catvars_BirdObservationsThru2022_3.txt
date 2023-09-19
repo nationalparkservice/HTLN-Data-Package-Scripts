@@ -1,0 +1,1921 @@
+attributeName	code	definition
+AOUCode	ACFL	
+AOUCode	ALFL	
+AOUCode	AMBI	
+AOUCode	AMCO	
+AOUCode	AMCR	
+AOUCode	AMGO	
+AOUCode	AMKE	
+AOUCode	AMRE	
+AOUCode	AMRO	
+AOUCode	AMWO	
+AOUCode	ANHI	
+AOUCode	ATSP	
+AOUCode	BACS	
+AOUCode	BADO	
+AOUCode	BAEA	
+AOUCode	BANS	
+AOUCode	BAOR	
+AOUCode	BARS	
+AOUCode	BAWW	
+AOUCode	BBCU	
+AOUCode	BBSA	
+AOUCode	BBWA	
+AOUCode	BCCH	
+AOUCode	BCNH	
+AOUCode	BEKI	
+AOUCode	BEVI	
+AOUCode	BEWR	
+AOUCode	BGGN	
+AOUCode	BHCO	
+AOUCode	BHVI	
+AOUCode	BLBW	
+AOUCode	BLGR	
+AOUCode	BLJA	
+AOUCode	BLPW	
+AOUCode	BLTE	
+AOUCode	BLVU	
+AOUCode	BOBO	
+AOUCode	BRBL	
+AOUCode	BRCR	
+AOUCode	BRTH	
+AOUCode	BTBW	
+AOUCode	BTNW	
+AOUCode	BUOW	
+AOUCode	BWHA	
+AOUCode	BWTE	
+AOUCode	BWWA	
+AOUCode	CACH	
+AOUCode	CAEG	
+AOUCode	CANG	
+AOUCode	CARW	
+AOUCode	CAWA	
+AOUCode	CCSP	
+AOUCode	CEDW	
+AOUCode	CERW	
+AOUCode	CHSP	
+AOUCode	CHSW	
+AOUCode	CITE	
+AOUCode	CLSW	
+AOUCode	COGR	
+AOUCode	COHA	
+AOUCode	COMO	
+AOUCode	CONI	
+AOUCode	COSN	
+AOUCode	COYE	
+AOUCode	CSWA	
+AOUCode	CWWI	
+AOUCode	DCCO	
+AOUCode	DEJU	
+AOUCode	DICK	
+AOUCode	DOWO	
+AOUCode	EABL	
+AOUCode	EAKI	
+AOUCode	EAME	
+AOUCode	EAPH	
+AOUCode	EATO	
+AOUCode	EAWP	
+AOUCode	EUCD	
+AOUCode	EUST	
+AOUCode	EWPW	
+AOUCode	FICR	
+AOUCode	FISP	
+AOUCode	GBHE	
+AOUCode	GCFL	
+AOUCode	GCKI	
+AOUCode	GHOW	
+AOUCode	GRCA	
+AOUCode	GREG	
+AOUCode	GRHE	
+AOUCode	GRPC	
+AOUCode	GRSP	
+AOUCode	GTGR	
+AOUCode	GWWA	
+AOUCode	HAWO	
+AOUCode	HESP	
+AOUCode	HETH	
+AOUCode	HOFI	
+AOUCode	HOLA	
+AOUCode	HOME	
+AOUCode	HOSP	
+AOUCode	HOWA	
+AOUCode	HOWR	
+AOUCode	INBU	
+AOUCode	KEWA	
+AOUCode	KILL	
+AOUCode	KIRA	
+AOUCode	LALO	
+AOUCode	LARB	
+AOUCode	LASP	
+AOUCode	LBHE	
+AOUCode	LEBI	
+AOUCode	LEFL	
+AOUCode	LETE	
+AOUCode	LISP	
+AOUCode	LOSH	
+AOUCode	LOWA	
+AOUCode	MALL	
+AOUCode	MAWA	
+AOUCode	MAWR	
+AOUCode	MIKI	
+AOUCode	MODO	
+AOUCode	NAWA	
+AOUCode	NOBO	
+AOUCode	NOCA	
+AOUCode	NOFL	
+AOUCode	NOHA	
+AOUCode	NOMO	
+AOUCode	NOPA	
+AOUCode	NOWA	
+AOUCode	NRWS	
+AOUCode	NSHO	
+AOUCode	OCWA	
+AOUCode	OROR	
+AOUCode	OSFL	
+AOUCode	OVEN	
+AOUCode	PABU	
+AOUCode	PAWA	
+AOUCode	PBGR	
+AOUCode	PEFA	
+AOUCode	PHVI	
+AOUCode	PIWA	
+AOUCode	PIWO	
+AOUCode	PRAW	
+AOUCode	PROW	
+AOUCode	PUFI	
+AOUCode	PUGA	
+AOUCode	PUMA	
+AOUCode	RBGR	
+AOUCode	RBGU	
+AOUCode	RBWO	
+AOUCode	RCKI	
+AOUCode	REDH	
+AOUCode	REVI	
+AOUCode	RHWO	
+AOUCode	RNEP	
+AOUCode	ROPI	
+AOUCode	ROWR	
+AOUCode	RSHA	
+AOUCode	RTHA	
+AOUCode	RTHU	
+AOUCode	RUBL	
+AOUCode	RWBL	
+AOUCode	SAPH	
+AOUCode	SAVS	
+AOUCode	SCTA	
+AOUCode	SESA	
+AOUCode	SEWR	
+AOUCode	SNEG	
+AOUCode	SORA	
+AOUCode	SOSA	
+AOUCode	SOSP	
+AOUCode	SPSA	
+AOUCode	SPTO	
+AOUCode	SSHA	
+AOUCode	STFL	
+AOUCode	STGR	
+AOUCode	SUTA	
+AOUCode	SWHA	
+AOUCode	SWSP	
+AOUCode	SWTH	
+AOUCode	TEWA	
+AOUCode	TRES	
+AOUCode	TUTI	
+AOUCode	TUVU	
+AOUCode	UNBI	
+AOUCode	UNFL	
+AOUCode	UNME	
+AOUCode	UNOW	
+AOUCode	UNSP	
+AOUCode	UNSW	
+AOUCode	UNVI	
+AOUCode	UNWA	
+AOUCode	UNWO	
+AOUCode	UNWR	
+AOUCode	UPCH	
+AOUCode	UPSA	
+AOUCode	VEER	
+AOUCode	VESP	
+AOUCode	WAVI	
+AOUCode	WBNU	
+AOUCode	WCSP	
+AOUCode	WEFL	
+AOUCode	WEKI	
+AOUCode	WEME	
+AOUCode	WEVI	
+AOUCode	WEWA	
+AOUCode	WFIB	
+AOUCode	WHIB	
+AOUCode	WIFL	
+AOUCode	WITU	
+AOUCode	WIWA	
+AOUCode	WODU	
+AOUCode	WOTH	
+AOUCode	WTSP	
+AOUCode	WWDO	
+AOUCode	YBCH	
+AOUCode	YBCU	
+AOUCode	YBFL	
+AOUCode	YBSA	
+AOUCode	YEWA	
+AOUCode	YHBL	
+AOUCode	YRWA	
+AOUCode	YTVI	
+AOUCode	YTWA	
+Age	Adult	
+Age	Immature	
+Age	Juv	
+Age	MisVal	
+Age	Unknown	
+Comments	
+	
+Comments		
+Comments	 4 males and one female	
+Comments	""squeezy"" call	
+Comments	""sue-sue-soup!"" probably Parula ?	
+Comments	# 9 and 10 were responding to each other	
+Comments	# of flyovers: 1	
+Comments	'	
+Comments	0-3 interval, no birds in open field	
+Comments	0-3 interval, no birds seen	
+Comments	0-3 time interval, no birds seen	
+Comments	06/03/11	
+Comments	06/03/11; Interpoint between 12 & 13	
+Comments	06/03/11; Interpoint between 13 & 14	
+Comments	06/03/11; Interpoint between 30 & 36	
+Comments	06/03/11; Interpoint between 7 & 14	
+Comments	1 + Male	
+Comments	1 F	
+Comments	1 F (enter as observation #15)	
+Comments	1 immature	
+Comments	1 male	
+Comments	100+	
+Comments	150m just after 5 min	
+Comments	1st year male	
+Comments	2 Canada Geese flew over after survey was over.	
+Comments	2 MODO flying btw 155 & 253	
+Comments	2 adult males together	
+Comments	2 female	
+Comments	2 females	
+Comments	2 flushed coming to site	
+Comments	2 individuals maybe not together	
+Comments	2 males	
+Comments	2 mature	
+Comments	2 of them	
+Comments	2 pair	
+Comments	2 sp. fast trill - Wilson's Warbler	
+Comments	3 & 2 not sure on song	
+Comments	3 females	
+Comments	3 singing males, 2 second song, clear, med to high pitched ""so so so so see .e .e .e. e "" near quarry	
+Comments	3min - plane flyover	
+Comments	4 males	
+Comments	4 of them together	
+Comments	4 sounding from diferent directions	
+Comments	400+	
+Comments	500+	
+Comments	7-8flew over edge of pond	
+Comments	8 to 10 in field	
+Comments	95% sure...	
+Comments	<20m just after 5 min	
+Comments	? Sounded a little off	
+Comments	? Unsure	
+Comments	? tit tit tit till	
+Comments	??	
+Comments	@ watershed pond bald eagle	
+Comments	A long way off	
+Comments	A long way off / Behind ranch house	
+Comments	A long way off.	
+Comments	A. crow outside of plot.	
+Comments	AMGO - between this site and site 166	
+Comments	AOUCode was NOOR	
+Comments	Acadian I think	
+Comments	All 6 in different locations, but ~100 meters	
+Comments	Along Fox Creek	
+Comments	Along road corridor in thicket.	
+Comments	Along way off.	
+Comments	American Tree Sparrow	
+Comments	Ascending Buzzy Trill-trrrrtttt	
+Comments	At a distance	
+Comments	At a distance east of plot	
+Comments	At a distance in tree grove	
+Comments	At a distance.	
+Comments	Attacking GHOW	
+Comments	B & W Warbler	
+Comments	BC chickadee heard leaving	
+Comments	BHCO - heard and seeen coming to site	
+Comments	Bald Eagle	
+Comments	Baltimore Oriole	
+Comments	Barn Swallow	
+Comments	Barn swallow	
+Comments	Barred Owl.	
+Comments	Before time 150+ flock of blackbirds	
+Comments	Bird Call	
+Comments	Black-throated Green Warbler	
+Comments	Blackburnian	
+Comments	Blackburnian Warbler	
+Comments	Blackpoll	
+Comments	Blackpoll Warbler	
+Comments	Blue-winged Warbler	
+Comments	Bluebird between 174/175	
+Comments	Bobwhite calling ~200m away in ravine.	
+Comments	Bobwhite in the distance.	
+Comments	Bobwhite quail in distance.	
+Comments	Booming	
+Comments	Booming at a distance	
+Comments	Brown Thrasher outside of plot.	
+Comments	By visitor center; mowed lawn.	
+Comments	CALLING ON LEK	
+Comments	CHATTER CALL ONLY	
+Comments	Call	
+Comments	Call & Visual ID	
+Comments	Call Note only	
+Comments	Call note only	
+Comments	Called once	
+Comments	Called only once	
+Comments	Calling	
+Comments	Calling overhead.	
+Comments	Calling somewhere in riparian area a long way from plot	
+Comments	Calling to another NOBO	
+Comments	Calling to each other	
+Comments	Came close while calling	
+Comments	Came closer when calling	
+Comments	Came closer while calling	
+Comments	Canada goose heard coming to site (lagoons?)	
+Comments	Carrying food	
+Comments	Carrying food (2 birds total)	
+Comments	Casrrying insects, potentially nesting	
+Comments	Cedar Waxwing	
+Comments	Cedar along highway	
+Comments	Chased owl	
+Comments	Chuck-wills-widow	
+Comments	Circled around plot contineous.	
+Comments	Circled around then landed	
+Comments	Collecting material	
+Comments	Colony in stream bank	
+Comments	Coming to site (before court)	
+Comments	Complex song	
+Comments	Cormorant flyover	
+Comments	Datasheet said AMCO	
+Comments	Datasheet said LABU	
+Comments	Datasheet said LARS	
+Comments	Datasheet said LOSN	
+Comments	Datasheet said RDWR	
+Comments	Datasheet said YEWA	
+Comments	Different locations approx same distance	
+Comments	Different locations same approx. distance	
+Comments	Distance to Pt 31, closest	
+Comments	Distance to Pt 83, closest	
+Comments	Distance to point 171	
+Comments	Distance to point 172	
+Comments	Distance to point 173	
+Comments	Distance to point 175	
+Comments	Distance to point 222	
+Comments	Distance to point 39 closest	
+Comments	Distance to point 83	
+Comments	Distance to point 97	
+Comments	Distance undetermined	
+Comments	Drumming	
+Comments	Ducks	
+Comments	East of pt. 7	
+Comments	Eastern Towhee	
+Comments	Endangered Rare Species (MN)	
+Comments	Entered as a mix of male and female in flock.	
+Comments	Epidomax - Peewee - not calling	
+Comments	European Starling	
+Comments	Evidence of nesting	
+Comments	FISP w/ PRWA sounding song	
+Comments	FLUSHED FROM LEK	
+Comments	FLUSHED FROM POND	
+Comments	FLUSHED WHEN PLOT WAS APPROACHED	
+Comments	Family group	
+Comments	Family group?	
+Comments	Family of three on tree	
+Comments	Family unit	
+Comments	Family unit: obs 2-4	
+Comments	Far out of clear sight/obstruction.	
+Comments	Far out of clear sight/obstructions.	
+Comments	Female  also heard	
+Comments	Female pheasant: landed in field, lt. brown (female?)	
+Comments	Feral pigeon	
+Comments	Fighting	
+Comments	First year	
+Comments	First year male	
+Comments	Fish Crow	
+Comments	Flew Through	
+Comments	Flew in and out of area as a group	
+Comments	Flew into plot and landed	
+Comments	Flew into territory of first male.	
+Comments	Flight call	
+Comments	Flock size >1, plot 173	
+Comments	Flushed	
+Comments	Flushed 2 quail leaving site	
+Comments	Flushed @ site	
+Comments	Flushed GB Heron from pond approaching plot.	
+Comments	Flushed coming to site	
+Comments	Flushed from circle on approach	
+Comments	Flushed from lek area	
+Comments	Flushed from nest	
+Comments	Flushed from nest (1 egg)	
+Comments	Flushed from plot	
+Comments	Flushed from point	
+Comments	Flushed from point. Recorded as M, F so entered as unknown.	
+Comments	Flushed from river	
+Comments	Flushed leaving last site, probably nesting in area	
+Comments	Flushed nighthawk while approaching plot.	
+Comments	Flushed on approach	
+Comments	Flushed on road leaving site	
+Comments	Flushed together	
+Comments	Flying high overhead	
+Comments	Flying low overhead	
+Comments	Flying overhead	
+Comments	Flyover	
+Comments	Fog had lifted	
+Comments	Foggy, visibility to 500 m	
+Comments	Foraging	
+Comments	Found female on nest after survey	
+Comments	Four fighting	
+Comments	From recording	
+Comments	GOBBLED	
+Comments	Gobbled	
+Comments	Gobbled once	
+Comments	Gobbling	
+Comments	Gobbling in the distance	
+Comments	Gray Catbird	
+Comments	Great Crested Flycatcher	
+Comments	Great Egret, saw one on a pond two days earlier	
+Comments	Great-tailed Grackle, female	
+Comments	Great-tailed Grackle, male	
+Comments	HOME	
+Comments	Heard	
+Comments	Heard A. Crow, Blue Jay, RB Woodpecker off plot.	
+Comments	Heard N. Cardinal, E. Wood PeeWee.	
+Comments	Heard RN Pheasant and ST Grouse males in distance.  Variable Circular Plots were truncated at 100-m in the field.	
+Comments	Heard RT hawk on way to plot.	
+Comments	Heard after	
+Comments	Heard after count	
+Comments	Heard and then seen on way to site	
+Comments	Heard at a distance	
+Comments	Heard coming to site	
+Comments	Heard in atypical habitat, not in super dense under brush.	
+Comments	Heard on recording post-survey.	
+Comments	Heard on wat to site	
+Comments	Heard on way to site	
+Comments	Heard on way to trail	
+Comments	Heard than seen	
+Comments	Heard walking to point	
+Comments	Hen with poults, saw one young turkey	
+Comments	I think	
+Comments	Identified from recording	
+Comments	In between pts	
+Comments	In cottonwood grove	
+Comments	In mowed area by look-out tower.	
+Comments	In one small bush	
+Comments	In riparian	
+Comments	In riparian area	
+Comments	In the bayou	
+Comments	In the distance	
+Comments	In transit to plot, scissor-tailed flycatcher	
+Comments	In tree	
+Comments	Interpoint	
+Comments	Interpoint between 9 and 25	
+Comments	Interpoint, East of pt. 16	
+Comments	Interpoint, East of pt. 17	
+Comments	Interpoint, North of pt. 25	
+Comments	Interpoint, South of pt. 9	
+Comments	Interpoint, West of pt. 17	
+Comments	Interpoint, between p.51 and 52	
+Comments	Just as leaving	
+Comments	Kentucky	
+Comments	Kentucky warbler after 8	
+Comments	Landed 100m from plot	
+Comments	Lark sparrow outside of 5 minutes	
+Comments	Least Acadian?	
+Comments	Left plot with two others after survey	
+Comments	Likely the one seen on way in	
+Comments	Listed as NACO and assumed to be NOCA	
+Comments	Loggerhead shrike	
+Comments	Long way off	
+Comments	Long ways off	
+Comments	Louisiana or northern waterthrush flew in to site after count	
+Comments	Low flight	
+Comments	Low flight @ 101 m	
+Comments	M & F	
+Comments	M/F ?	
+Comments	MODO heard before count	
+Comments	Making crazy calls... coot like	
+Comments	Male and female flying	
+Comments	Male and possibly a female	
+Comments	Many RW BLB, didn't hear anything else in first 3 min.	
+Comments	Many bird calls at a distance. Could not ID most.	
+Comments	Mate on nest	
+Comments	Mature Adult	
+Comments	Maybe sw Redhouse corner? More than one ""calling"" but can't see to get a count - did fush a chicken coming to site so maybe they are closer.	
+Comments	Merlin	
+Comments	Merlin - heard too	
+Comments	Merlin ID	
+Comments	Merlin song ID	
+Comments	Mourning Dove a long way away.	
+Comments	Moved closer over time	
+Comments	Mud flat on cow pond	
+Comments	Muffled call, stop when I tried to record. TUTI or Pewee	
+Comments	N of Quts 2 accross from lower parking area	
+Comments	N of park boundary heading NW	
+Comments	N. Bobwhite in distance.	
+Comments	N. Parula	
+Comments	N. cardinal heard after count	
+Comments	NOCA all heard/seen in different directions, indicating multiple birds	
+Comments	Nashville warbler, yellow belly, white eye stripe, grey	
+Comments	Near Bayou	
+Comments	Near Cook's Ranch House.	
+Comments	Near river	
+Comments	Nest	
+Comments	Nest with young.	
+Comments	Nesting at visitor center	
+Comments	Nesting evidence	
+Comments	Nesting pair	
+Comments	Nesting wren inside cannon	
+Comments	No visual, heard distinctive call numerous times, obtained recordings of vocals, did not use playback as this is a sensitive species. Exciting find!	
+Comments	Northern Cardinal in the distance.	
+Comments	Northern Flicker	
+Comments	Northern Parula and Summer Tanager just off plot.	
+Comments	Northern shoveler	
+Comments	Noted between plots in WICR16	
+Comments	OFF PARK PROPERTY	
+Comments	ON NEST	
+Comments	ON SECOND LEK	
+Comments	OTHER SIDE OF RIDGE	
+Comments	OTHER SIDE OF RIGDE	
+Comments	OVER RIDGE	
+Comments	Off in distance: would have liked to gotten closer and seen...	
+Comments	Oink flight calls	
+Comments	On Lek	
+Comments	On Pond	
+Comments	On approach to point	
+Comments	On bayou	
+Comments	On brush of tree-line	
+Comments	On neighboring house	
+Comments	On neighboring land	
+Comments	On nest	
+Comments	On power line	
+Comments	On powerline	
+Comments	On the datasheet, both flock size and fly over are marked 1	
+Comments	On the datasheet, both flock size and flyover had 1s marked	
+Comments	On trail edge	
+Comments	One male and female on road	
+Comments	Only Chattered	
+Comments	Only STFL observed	
+Comments	Only called once,unable to locate	
+Comments	Outside fenced boundary	
+Comments	Over a ridge	
+Comments	Over hill	
+Comments	Over ridge	
+Comments	Over the bluff	
+Comments	Overhead	
+Comments	Owl - barred?	
+Comments	PLOT WEST 3m FROM LAST YEAR DO TO HIGH WATER	
+Comments	Painted Bunting - First year plummage	
+Comments	Pair	
+Comments	Pair - probably nesting	
+Comments	Pair sitting in tree	
+Comments	Pair with obs. #6	
+Comments	Pair with obs. #7	
+Comments	Pair?	
+Comments	Palmer Creek	
+Comments	Pileated	
+Comments	Pioneer Acres (?)	
+Comments	Plot is on top of a rock/bluff out cropping.  Windier than other area's of the park	
+Comments	Plot near nest	
+Comments	Plot on the dam of a pond.	
+Comments	Plot on white line of road	
+Comments	Point Tweety 219 closest point	
+Comments	Point Tweety 67 closest point	
+Comments	Possible nest in large Liriodendron	
+Comments	Possible pair	
+Comments	Possible pair	
+Comments	Possible pair with obs. #4	
+Comments	Possible pair with obs. #5	
+Comments	Possibly M & F in unknown numbers	
+Comments	Probable pair	
+Comments	Probable pair	
+Comments	Probable pair with obs. #5	
+Comments	Probable pair with obs. #6	
+Comments	Probably both adults and juveniles	
+Comments	Probably same RPHE as previous	
+Comments	Proth.	
+Comments	Prothonotary	
+Comments	Protonotary	
+Comments	Recorded as PWAR	
+Comments	Red-tailed hawk in tree before survey started. Heard pheasant and woodpecker far off. Heard killdeer after sampling over.	
+Comments	Redhead came from lake direction	
+Comments	Redtail hawk flying between 174/175 9:17 AM	
+Comments	Ruby-Throated Hummingbird	
+Comments	SAW BETWEEN PLOTS	
+Comments	SE of pt 52	
+Comments	SEEN BETWEEN PLOTS	
+Comments	SETTING ON ELECTRIC LINE	
+Comments	SITTING ON FENCE	
+Comments	Same WITU as other nearby plots	
+Comments	Same as above	
+Comments	Same bird as seen on 25	
+Comments	Saw Barred Owl on way to plot.	
+Comments	Saw E Kingbird after plot was done.	
+Comments	Saw Orchard Oriole (M,F),  Turkey, Woodpecker.	
+Comments	Saw after count (heard during)	
+Comments	Saw both together	
+Comments	Saw coming to site	
+Comments	Saw female after count	
+Comments	Saw on walk to next point	
+Comments	Saw on way to site	
+Comments	Saw upon leaving site (after hearing during 5 min survey)	
+Comments	Saw walking to the point	
+Comments	Seem to be in family groups	
+Comments	Seem to be in family groups, at least 4	
+Comments	Seen	
+Comments	Seen & heard after	
+Comments	Seen - Harassing the cowbird	
+Comments	Seen - harassing the cowbird	
+Comments	Seen after	
+Comments	Seen after count	
+Comments	Seen and heard	
+Comments	Seen between plots	
+Comments	Seen coming to the site	
+Comments	Seen on top of tree	
+Comments	Seen on tree	
+Comments	Seen three males and two female	
+Comments	Seen three males and two females	
+Comments	Showed BLK throat of 1st summer male	
+Comments	Singing	
+Comments	Singing around visitor center	
+Comments	Solitary	
+Comments	Some wind gusts up to 4 on beufort scale.	
+Comments	Somewhere along the river	
+Comments	Somewhere near river	
+Comments	Sounded like sandpiper	
+Comments	Southeast of point 24	
+Comments	Sparrow similar to savannah sparrow... Dickcissel alternate call...	
+Comments	Steady peeer peeer peeer almost trilled	
+Comments	Steady trill	
+Comments	TUVU flying over near site	
+Comments	The only EAME observed	
+Comments	Three birds M, F, Intrudor	
+Comments	Three fighting for food	
+Comments	Took picture	
+Comments	Towhee nest with 5 eggs	
+Comments	Trickster	
+Comments	Trilled then chittt chitt	
+Comments	Turkey vulture seen when approaching site	
+Comments	Two calling back and forth	
+Comments	Two males	
+Comments	Two males and two females	
+Comments	Two together	
+Comments	Unable to locate	
+Comments	Unable to locate.	
+Comments	Variable Circular Plots were truncated at 100-m in the field.	
+Comments	Very dense canopy	
+Comments	Vireo during 3 - 5, BH? 3 spaced phrases	
+Comments	Vireo one phrase	
+Comments	Visitor Center parking lot	
+Comments	Visual ID	
+Comments	Visual observation	
+Comments	W of pt #14 along farm trail	
+Comments	Walking footbridge	
+Comments	Walking to pt. 25	
+Comments	Way off in the distance	
+Comments	Way off in the distance.	
+Comments	West of pt. 43	
+Comments	Western Meadowlark	
+Comments	Wilsons Warbler	
+Comments	Wings looked very dark in color; almost like a scarlet tanager	
+Comments	Worm in mouth	
+Comments	Yellow-bellied Flycatcher verified via recording and spectograph	
+Comments	a little late?	
+Comments	across road	
+Comments	adult male still had some plummage 	
+Comments	after count	
+Comments	after count time	
+Comments	alder flycatcher	
+Comments	all females	
+Comments	almost stepped on	
+Comments	angered by my presence	
+Comments	answered the other YBCU	
+Comments	area had been mowed	
+Comments	around boardwalk bridge	
+Comments	at 3 other species present within 100 m	
+Comments	at a distance	
+Comments	at a distance booming	
+Comments	at a distance gobbling	
+Comments	at a distance in a ravine	
+Comments	at least one bearded	
+Comments	at nest	
+Comments	at nest cavity	
+Comments	at pond	
+Comments	bank swallow	
+Comments	battling the wind	
+Comments	bay breasted	
+Comments	before count	
+Comments	before count started	
+Comments	between 115 and 194	
+Comments	between plots	
+Comments	between point 42 and point 45	
+Comments	between points	
+Comments	between pt. and pt. 2	
+Comments	between sites	
+Comments	between stops	
+Comments	beyond time	
+Comments	bird from previous plot flew from new	
+Comments	black vulture	
+Comments	blue gray	
+Comments	blue jay heard coming to site	
+Comments	blue-winged warbler	
+Comments	bob white	
+Comments	bob white quail	
+Comments	bobbing butt in woody debris and along stream	
+Comments	booming	
+Comments	booming on molvane	
+Comments	both were calling	
+Comments	breeding	
+Comments	brewer's black bird	
+Comments	btw site & corrals	
+Comments	buff-breasted sandpiper	
+Comments	building nest	
+Comments	burned	
+Comments	burrowing owl on way to site. There is a pair nesting beside bus tour road	
+Comments	call	
+Comments	call note	
+Comments	call note only	
+Comments	call only (not singing)	
+Comments	calling in ravine west/northwest of plot	
+Comments	carrying food	
+Comments	carrying food to nest	
+Comments	carrying material	
+Comments	carrynig nesting material	
+Comments	cattle scared it off pond	
+Comments	cedar wax	
+Comments	chased by BLJAs	
+Comments	chasing BHCO	
+Comments	chasing each other	
+Comments	chech count for species	
+Comments	checked waypoints in GPS, ok. Bill Schreier 6-2-10	
+Comments	chickadee	
+Comments	coming to site	
+Comments	common nighthawk flushed on trail ~200 m NW of site	
+Comments	consistently flying around site, dived on me and top of hill	
+Comments	coordinates and waypoints checked in GIS, correct.
+Bill Schreier 6-2-10	
+Comments	copulating	
+Comments	copulation	
+Comments	could hear rapping in the distance	
+Comments	couldn't get to plot due to barb wire fence	
+Comments	courting	
+Comments	cows bugging me	
+Comments	creeks are loud enough to limit hearing distant birds	
+Comments	crop duster is flying near and over the park (very hard to hear)	
+Comments	crow species, did not call	
+Comments	crows pestering something, fly 3 meters along Fox Creek right by us, otherwise at crow distance, check all - red eyed?	
+Comments	dark eye line, dark cap	
+Comments	detected 3 other species I could not ID	
+Comments	didn't see f	
+Comments	displaying	
+Comments	distance	
+Comments	distant, heard multiple times	
+Comments	downstream	
+Comments	druming	
+Comments	estimated location	
+Comments	estimated number	
+Comments	fairly confident, seen flying. Looked like those at my house - JKT	
+Comments	family group	
+Comments	family group?	
+Comments	family of titmice	
+Comments	family unit: obs15-17?	
+Comments	family unit: obs2-4	
+Comments	feeding young	
+Comments	female Indigo bunting flushed @ site	
+Comments	fighting	
+Comments	flew in after the count	
+Comments	flew in same general direction but out of view. potential pair with obs1	
+Comments	flew over to fast to fast to i.d.	
+Comments	flew through plot	
+Comments	flock on roost (added with obs.#9= 20 individuals)	
+Comments	flushed	
+Comments	flushed 2 Bewick's wren while walking past site 167	
+Comments	flushed 4	
+Comments	flushed 4 chickens (flew from ~100m NE of site - lek)	
+Comments	flushed @ site before survey	
+Comments	flushed CONI leaving site ~200 m N.	
+Comments	flushed a female summer tanager leaving site	
+Comments	flushed a long draw to the west	
+Comments	flushed a rock ledge to the west	
+Comments	flushed barred owl leaving site	
+Comments	flushed chipping sparrow while walking past site 167	
+Comments	flushed coming to site	
+Comments	flushed from eggs	
+Comments	flushed from nest	
+Comments	flushed from roast	
+Comments	flushed getting to site	
+Comments	flushed going to site	
+Comments	flushed leaving plot	
+Comments	flushed male and female scissortail off fence coming to site	
+Comments	flushed near site coming and going	
+Comments	flushed on way to plot	
+Comments	flushed out of tree	
+Comments	flushed red tail walking to site (within few meters of site)	
+Comments	flushed turkey walking to site (within few meters of site)	
+Comments	flushed when leaving plot	
+Comments	foraging on dead tree	
+Comments	from recording	
+Comments	gobbling	
+Comments	gobbling at a distance	
+Comments	grasshopper sparrow heard after count	
+Comments	great egret	
+Comments	greater than 100m	
+Comments	greater than 500m	
+Comments	hanging at pits	
+Comments	heard	
+Comments	heard & seen	
+Comments	heard + seen	
+Comments	heard - saw	
+Comments	heard @ site after count	
+Comments	heard after	
+Comments	heard after count	
+Comments	heard and saw Carolina wren coming to site (w/in 10 m of site)	
+Comments	heard before	
+Comments	heard before count @ site	
+Comments	heard before, heard and seen after	
+Comments	heard btw sites (160 - 159)	
+Comments	heard distance	
+Comments	heard drum	
+Comments	heard first 3 min recorded noted on recoring but unable to id in field	
+Comments	heard in long distance	
+Comments	heard in transit	
+Comments	heard long distance	
+Comments	heard on the way here	
+Comments	heard once in 3 - 5 min interval	
+Comments	heard phesant call 300+ meters away	
+Comments	heard reviewing record	
+Comments	heard while walking	
+Comments	heavy tree cover, no GPS signal	
+Comments	hen with chicks	
+Comments	hermit thrush	
+Comments	high in the sky	
+Comments	high in the sky flying over maintenance yard	
+Comments	immature (1st yr?) not fledging	
+Comments	in distance	
+Comments	in nest box	
+Comments	in route	
+Comments	in transit	
+Comments	in transit outside of 5 minutes	
+Comments	in treeline	
+Comments	indigo  bunting in field when leaving	
+Comments	indigo bunting in field when leaving	
+Comments	interpoint	
+Comments	just after 5 min at point	
+Comments	juvenile, flushed walking to plot, heard and seen	
+Comments	kingfisher keeps flying and landing nearby	
+Comments	landed	
+Comments	landed in brush and flew off befor id	
+Comments	laplands long spur	
+Comments	lawn mower noise	
+Comments	likely from flyover	
+Comments	likely same heard on way in	
+Comments	little flycatcher	
+Comments	located at a large chimney in the woods	
+Comments	long distance	
+Comments	loud train blasting horn	
+Comments	male/female	
+Comments	male/females	
+Comments	mating pair	
+Comments	mating(?) w/ 3	
+Comments	may be same one heard on last count	
+Comments	maybe 3. heard between 27-191 to west	
+Comments	maybe juveniles?	
+Comments	maybe more than 2	
+Comments	migrating palm warblers	
+Comments	missed recording distance	
+Comments	mobbing RTHA	
+Comments	mobbing redtail hawk	
+Comments	mockingbird on nest	
+Comments	most of the 'woodland'  birds are at Fox creek	
+Comments	moving to fast/ no call	
+Comments	moving to quickly through brush	
+Comments	mowed a few weeks ago	
+Comments	mowers/tractor	
+Comments	much of the woody vegetation has been removed form this area since 2009	
+Comments	multiple steers in proximity being quite loud	
+Comments	mystery bird, fairly similar to Oriole, whistled: vig a ree (up) vig a row (down), we do (up), ding-a-burr-buzz-yay, something else (down), series lasted 6-7 seconds. Mostly consistent in phrasing up on NE slope above PERI 46	
+Comments	mystery bird, watched (~70m) and listened to for ~5min. Have heard @ 3 different locations. Same as @ PERI 42	
+Comments	near	
+Comments	near Fox creek	
+Comments	near VC	
+Comments	near parking area	
+Comments	near plot 15 location	
+Comments	nest empty, had fledglings in it the previous day	
+Comments	nest hole	
+Comments	nest in area	
+Comments	nest in tree above site	
+Comments	nest predated by black rat snake	
+Comments	nest spotted in maple tree	
+Comments	nest w/ young	
+Comments	nest with 4 eggs and cowbird egg	
+Comments	nest-evergreen-grave area	
+Comments	nesting	
+Comments	no birds seen	
+Comments	noisy!!!	
+Comments	not a lot of activity	
+Comments	on creek	
+Comments	on line - 10	
+Comments	on nest	
+Comments	on pasture road	
+Comments	on pond	
+Comments	on road to stop 30	
+Comments	on roost	
+Comments	one adult one fledgling	
+Comments	one bird seen behind limbs, probably Tyrannidae	
+Comments	one call note	
+Comments	one egg right at site - flushed off nest	
+Comments	one flew to fight with the other	
+Comments	only chattered	
+Comments	or Louisiana?	
+Comments	or hairy	
+Comments	or juvenile	
+Comments	or more; there are probably fledglings	
+Comments	other birds heard (treetops) but not seen	
+Comments	over a hill	
+Comments	overhead	
+Comments	owl pursued by crows?	
+Comments	p.o.ed crow @ site. I am guessing by its' actions it has a nest nearby, heard second crow as leaving	
+Comments	pair	
+Comments	pair of green herons spotted out side of time when walking back to cart	
+Comments	pair together	
+Comments	pair?	
+Comments	palmer unburned	
+Comments	palmer- unburned	
+Comments	palmer-unburned	
+Comments	parula	
+Comments	peewee	
+Comments	pewee	
+Comments	phobe	
+Comments	pileated 7:55 going out-nest??	
+Comments	pileated woodpecker flying between 174/175 9:17 AM	
+Comments	plane flew overhead and thunder was heard	
+Comments	planes and automobiles	
+Comments	plot 110	
+Comments	plot 164	
+Comments	plot 174	
+Comments	plot 175	
+Comments	plot 31	
+Comments	plot 39	
+Comments	plot 4 in GPS but plot 3 on map	
+Comments	plot 53	
+Comments	plot 66	
+Comments	plot 67	
+Comments	plot 84	
+Comments	plot is in the bottom of a large ravine. Very rocky	
+Comments	plot stake has washed out, surveyed birds 7.0 m south of plot	
+Comments	plot was in pond do to flooding, so it was surveyed 7.0 m west of point.	
+Comments	plot was in pond due to flloding, so it was surveyed 7.0 m west of point.	
+Comments	plot was in pond due to flooding, so it was surveyed 7.0 m west of point	
+Comments	plot was in pond due to flooding, so it was surveyed 7.0 m west of point.	
+Comments	possible 9	
+Comments	possible nesting pair	
+Comments	possible nesting pair with obs1	
+Comments	possible pair	
+Comments	possible pair w/ obs11	
+Comments	possible pair w/ obs12	
+Comments	possible pair with obs8	
+Comments	possible pair with obs9	
+Comments	possibly flew by calling	
+Comments	possibly from #24	
+Comments	possibly from last plot	
+Comments	possibly nesting	
+Comments	possibly same two from previous plot	
+Comments	potential pair but out of view	
+Comments	presumably on 6k by site 53	
+Comments	previous plot 110?	
+Comments	previous plot 115	
+Comments	previous plot 69	
+Comments	previous plot 83	
+Comments	probable nest very close	
+Comments	probable nesting pair	
+Comments	probable nesting pair	
+Comments	probable pair	
+Comments	probably family group	
+Comments	probably flushed from nest site	
+Comments	probably mate of # 3	
+Comments	probably mate of # 4	
+Comments	probably mate of #2	
+Comments	probably on nest	
+Comments	probably pair	
+Comments	range-tree	
+Comments	recorded	
+Comments	recorded	
+Comments	recorded after	
+Comments	recorded and later identified the call inside the 0-3 minutes	
+Comments	recorded and verified, heard before 3 min mark	
+Comments	red-shouldered hawk	
+Comments	reddish above, streaked breast	
+Comments	responding to other BDOW	
+Comments	roosting on ground	
+Comments	same as 39	
+Comments	same pheasant each time	
+Comments	sang 3 times before survey	
+Comments	sapsucker	
+Comments	saw	
+Comments	saw 2 in big tree down in parking lot	
+Comments	saw after 5 min	
+Comments	saw between plots	
+Comments	saw but waited for confirmation, was on pond dam, move to #9	
+Comments	saw coming to site	
+Comments	saw coming to site/heard at site	
+Comments	saw female, not male (heard)	
+Comments	saw in transit	
+Comments	saw nest walking to point	
+Comments	saw red-tailed hawk	
+Comments	saw scissor-tailed flycatcher between site 4 and 162	
+Comments	saw walking back to car	
+Comments	scissortail	
+Comments	see observation 2 comments	
+Comments	seen	
+Comments	seen + heard	
+Comments	seen - nest in white pines s. of point	
+Comments	seen - rough-winged swallow	
+Comments	seen - swallow rough-winged	
+Comments	seen @ site after count	
+Comments	seen Rough-winged swallow	
+Comments	seen after count	
+Comments	seen after count @ site	
+Comments	seen after time	
+Comments	seen and heard @ creek crossing b/w 45 and 39	
+Comments	seen and heard coming to site	
+Comments	seen and heard leaving site or northern? (waterthrush)	
+Comments	seen between sights	
+Comments	seen coming into sight, heard @ site	
+Comments	seen coming to site	
+Comments	seen comming into site	
+Comments	seen flyover	
+Comments	seen in W. Freeman cornfield	
+Comments	seen in distance	
+Comments	seen in transit	
+Comments	seen leaving site	
+Comments	seen leaving site chasing Orchard oriole	
+Comments	seen mating	
+Comments	seen nest made of lichens	
+Comments	seen on road near 17	
+Comments	seen overhead	
+Comments	seen perched near site as going to site - heard at end of count	
+Comments	seen regularly at this location	
+Comments	seen shortly after count @ site	
+Comments	semipalmated sandpiper. small shore bird 	
+Comments	several HESP en route to this site (after 10 min), 1 year post burn	
+Comments	several calling (3-4)	
+Comments	singing	
+Comments	single mimic	
+Comments	single note-tsik	
+Comments	site 64	
+Comments	site was inaccessible due to high water - got as close as possible	
+Comments	sitting on gate	
+Comments	six males	
+Comments	small flycatcher	
+Comments	soaring over park	
+Comments	solid grayish warbler	
+Comments	some adults at least. Family group?	
+Comments	song	
+Comments	song territorial	
+Comments	south of plot along creek	
+Comments	sparrow like yellow belly. black v yellow eye bar	
+Comments	sparrow-like, should know call, near site as we approached	
+Comments	sparrows? Swallows? Just not sure	
+Comments	spit call	
+Comments	spit call only	
+Comments	split obs w/ 16	
+Comments	split obs w/ 3	
+Comments	split observation with #18	
+Comments	split observation with #7	
+Comments	ss or ch (sqaure tail)	
+Comments	striped crown, eye line Fitzbew	
+Comments	striped head spot on breast	
+Comments	there was a lot of chatter	
+Comments	thick canopy	
+Comments	thick canopy, could hear birds but not see or ID	
+Comments	too close to measure distance	
+Comments	train at Strong City at end of count increased noise considerably	
+Comments	train in background	
+Comments	train in distance	
+Comments	train passing by	
+Comments	transit	
+Comments	turkey flushed going to site	
+Comments	two short twitter twitter	
+Comments	unable to locate	
+Comments	unable to locate, in a ravine	
+Comments	unable to locate, probably off park	
+Comments	unburned	
+Comments	unburned veg=2ft tall	
+Comments	unburned- on the molvane? Not close enough to guess location distance	
+Comments	unburned-CAGO off pond	
+Comments	unidentified, low 2nd trill, not chipping sparrow	
+Comments	unknown flycatcher (empadonix)	
+Comments	unknown owl, saw flying away	
+Comments	unknown shorebirds	
+Comments	unknown swallow	
+Comments	upland sandpiper	
+Comments	veeer call	
+Comments	very agitated	
+Comments	very strange not 100 % sure	
+Comments	vireo did not call long and/or fast	
+Comments	wahoo!!	
+Comments	walking away from plot	
+Comments	warbler - solid color	
+Comments	warbler black back, yellow patch on throat	
+Comments	warbler with yellow eye bar and back	
+Comments	water thrush seen coming to site	
+Comments	west	
+Comments	whip-whip-whip	
+Comments	white circle around eye	
+Comments	white eyering
+white in tail feathers
+5""	
+Comments	white rump drab back (warbler-vireo)	
+Comments	white-crowned sparrow	
+Comments	witchity trill - low in vegetation - Kentucky warbler	
+Comments	wood ducks flew into creek as leaving	
+Comments	wren?	
+Comments	yelloe-throat	
+Comments	yellow belly black mask	
+Comments	yellow chest & back black head & back almost grosbeak sized beak	
+Comments	yellow eye bar yellow breast	
+Comments	yellowish-little flycatcher chebeck chiche beck	
+CommonName	Alder Flycatchetr	
+CommonName	Blue-headed Vireo	
+CommonName	Darl-eyed Junco	
+CommonName	Eastern whip-poor-will	
+CommonName	Orange-crowned Warbler	
+CommonName	Unidentified bird	
+CommonName	Unidentified flycatcher	
+CommonName	Unidentified meadowlark	
+CommonName	Unidentified poecile chickadee	
+CommonName	Unidentified sparrow	
+CommonName	Unidentified swallow	
+CommonName	Unidentified vireo	
+CommonName	Unidentified warbler	
+CommonName	Unidentified woodpecker	
+CommonName	Unidentified wren	
+CommonName	Western Flycatcher	
+CommonName	acadian flycatcher	
+CommonName	american Bittern	
+CommonName	american Coot	
+CommonName	american crow	
+CommonName	american goldfinch	
+CommonName	american kestrel	
+CommonName	american redstart	
+CommonName	american robin	
+CommonName	american tree sparrow	
+CommonName	american woodcock	
+CommonName	anhinga	
+CommonName	bachman's Sparrow	
+CommonName	bald eagle	
+CommonName	bank swallow	
+CommonName	barn swallow	
+CommonName	barred owl	
+CommonName	bay-breasted warbler	
+CommonName	bell's vireo	
+CommonName	belted kingfisher	
+CommonName	bewick's wren	
+CommonName	black tern	
+CommonName	black vulture	
+CommonName	black-and-white warbler	
+CommonName	black-billed cuckoo	
+CommonName	black-capped chickadee	
+CommonName	black-crowned night-heron	
+CommonName	black-throated blue warbler	
+CommonName	black-throated green warbler	
+CommonName	blackburnian warbler	
+CommonName	blackpoll warbler	
+CommonName	blue grosbeak	
+CommonName	blue jay	
+CommonName	blue-gray gnatcatcher	
+CommonName	blue-winged teal	
+CommonName	blue-winged warbler	
+CommonName	bobolink	
+CommonName	brewer's blackbird	
+CommonName	broad-winged hawk	
+CommonName	brown creeper	
+CommonName	brown thrasher	
+CommonName	brown-headed cowbird	
+CommonName	buff-breasted sandpiper	
+CommonName	burrowing owl	
+CommonName	canada goose	
+CommonName	canada warbler	
+CommonName	carolina chickadee	
+CommonName	carolina wren	
+CommonName	cattle egret	
+CommonName	cedar waxwing	
+CommonName	cerulean warbler	
+CommonName	chestnut-sided warbler	
+CommonName	chimney swift	
+CommonName	chipping sparrow	
+CommonName	chuck-will's-widow	
+CommonName	cinnamon teal	
+CommonName	clay-colored sparrow	
+CommonName	cliff swallow	
+CommonName	common grackle	
+CommonName	common moorhen	
+CommonName	common nighthawk	
+CommonName	common snipe	
+CommonName	common yellowthroat	
+CommonName	cooper's hawk	
+CommonName	dickcissel	
+CommonName	double-crested cormorant	
+CommonName	downy woodpecker	
+CommonName	eastern bluebird	
+CommonName	eastern kingbird	
+CommonName	eastern meadowlark	
+CommonName	eastern phoebe	
+CommonName	eastern wood-pewee	
+CommonName	eurasian collared-dove	
+CommonName	european starling	
+CommonName	field sparrow	
+CommonName	fish crow	
+CommonName	golden-crowned kinglet	
+CommonName	golden-winged warbler	
+CommonName	grasshopper sparrow	
+CommonName	gray catbird	
+CommonName	great blue heron	
+CommonName	great crested flycatcher	
+CommonName	great egret	
+CommonName	great horned owl	
+CommonName	great-tailed grackle	
+CommonName	greater prairie-chicken	
+CommonName	green (green-backed) heron	
+CommonName	hairy woodpecker	
+CommonName	henslow's sparrow	
+CommonName	hermit thrush	
+CommonName	hooded merganser	
+CommonName	hooded warbler	
+CommonName	horned lark	
+CommonName	house finch	
+CommonName	house sparrow	
+CommonName	house wren	
+CommonName	indigo bunting	
+CommonName	kentucky warbler	
+CommonName	killdeer	
+CommonName	king rail	
+CommonName	lapland Longspur	
+CommonName	lark bunting	
+CommonName	lark sparrow	
+CommonName	least bittern	
+CommonName	least flycatcher	
+CommonName	least tern	
+CommonName	lincoln's sparrow	
+CommonName	little blue heron	
+CommonName	loggerhead shrike	
+CommonName	louisiana waterthrush	
+CommonName	magnolia warbler	
+CommonName	mallard	
+CommonName	marsh wren	
+CommonName	mississippi kite	
+CommonName	mourning dove	
+CommonName	nashville warbler	
+CommonName	northern bobwhite	
+CommonName	northern cardinal	
+CommonName	northern flicker	
+CommonName	northern harrier	
+CommonName	northern mockingbird	
+CommonName	northern oriole	
+CommonName	northern parula	
+CommonName	northern rough-winged swallow	
+CommonName	northern shoveler	
+CommonName	northern waterthrush	
+CommonName	olive-sided flycatcher	
+CommonName	orchard oriole	
+CommonName	ovenbird	
+CommonName	painted bunting	
+CommonName	palm warbler	
+CommonName	peregrine falcon	
+CommonName	philadelphia vireo	
+CommonName	pied-billed grebe	
+CommonName	pileated woodpecker	
+CommonName	pine warbler	
+CommonName	prairie warbler	
+CommonName	prothonotary warbler	
+CommonName	purple finch	
+CommonName	purple gallinule	
+CommonName	purple martin	
+CommonName	red-bellied woodpecker	
+CommonName	red-eyed vireo	
+CommonName	red-headed woodpecker	
+CommonName	red-shouldered hawk	
+CommonName	red-tailed hawk	
+CommonName	red-winged blackbird	
+CommonName	redhead	
+CommonName	ring-billed gull	
+CommonName	ring-necked pheasant	
+CommonName	rock pigeon	
+CommonName	rock wren	
+CommonName	rose-breasted grosbeak	
+CommonName	ruby-crowned kinglet	
+CommonName	ruby-throated hummingbird	
+CommonName	rufous-sided towhee, eastern towhee	
+CommonName	rusty blackbird	
+CommonName	savannah sparrow	
+CommonName	say's phoebe	
+CommonName	scarlet tanager	
+CommonName	scissor-tailed flycatcher	
+CommonName	sedge wren	
+CommonName	semipalmated sandpiper	
+CommonName	sharp-shinned hawk	
+CommonName	sharp-tailed grouse	
+CommonName	snowy egret	
+CommonName	solitary sandpiper	
+CommonName	song sparrow	
+CommonName	sora	
+CommonName	spotted (rufous-side) towhee	
+CommonName	spotted sandpiper	
+CommonName	summer tanager	
+CommonName	swainson's hawk	
+CommonName	swainson's thrush	
+CommonName	swamp sparrow	
+CommonName	tennessee warbler	
+CommonName	tree swallow	
+CommonName	tufted titmouse	
+CommonName	turkey vulture	
+CommonName	unidentified owl	
+CommonName	upland sandpiper	
+CommonName	veery	
+CommonName	vesper sparrow	
+CommonName	warbling vireo	
+CommonName	western kingbird	
+CommonName	western meadowlark	
+CommonName	white ibis	
+CommonName	white-breasted nuthatch	
+CommonName	white-crowned sparrow	
+CommonName	white-eyed vireo	
+CommonName	white-faced ibis	
+CommonName	white-throated sparrow	
+CommonName	white-winged dove	
+CommonName	wild turkey	
+CommonName	willow flycatcher	
+CommonName	wilson's warbler	
+CommonName	wood duck	
+CommonName	wood thrush	
+CommonName	worm-eating warbler	
+CommonName	yellow warbler	
+CommonName	yellow-bellied flycatcher	
+CommonName	yellow-bellied sapsucker	
+CommonName	yellow-billed cuckoo	
+CommonName	yellow-breasted chat	
+CommonName	yellow-headed blackbird	
+CommonName	yellow-rumped warbler	
+CommonName	yellow-throated vireo	
+CommonName	yellow-throated warbler	
+DetectionType	Heard +5 min	
+DetectionType	Heard First	
+DetectionType	Heard Then Seen	
+DetectionType	Seen +5 min	
+DetectionType	Seen First	
+DetectionType	Unknown	
+Family	Accipitridae	
+Family	Alaudidae	
+Family	Alcedinidae	
+Family	Anatidae	
+Family	Anhingidae	
+Family	Apodidae	
+Family	Ardeidae	
+Family	Bombycillidae	
+Family	Calcariidae	
+Family	Caprimulgidae	
+Family	Cardinalidae	
+Family	Cathartidae	
+Family	Certhiidae	
+Family	Charadriidae	
+Family	Columbidae	
+Family	Corvidae	
+Family	Cuculidae	
+Family	Emberizidae	
+Family	Falconidae	
+Family	Fringillidae	
+Family	Hirundinidae	
+Family	Icteridae	
+Family	Laniidae	
+Family	Laridae	
+Family	Mimidae	
+Family	NULL	
+Family	Odontophoridae	
+Family	Paridae	
+Family	Parulidae	
+Family	Passeridae	
+Family	Phalacrocoracidae	
+Family	Phasianidae	
+Family	Picidae	
+Family	Podicipedidae	
+Family	Polioptilidae	
+Family	Rallidae	
+Family	Regulidae	
+Family	Scolopacidae	
+Family	Sittidae	
+Family	Strigidae	
+Family	Strigidae/tytonidae	
+Family	Sturnidae	
+Family	Threskiornithidae	
+Family	Trochillidae	
+Family	Troglodytidae	
+Family	Turdidae	
+Family	Tyrannidae	
+Family	Vieonidae	
+Family	Vireonidae	
+Interval	0-3 min	
+Interval	>3-5 min	
+Interval	>5 min	
+Interval	Missing Value	
+Noise	Unknown	
+Noise	high noise	
+Noise	low noise	
+Noise	medium noise	
+Noise	quiet	
+NoiseSummary	  detection radius is probably substantially reduced	
+NoiseSummary	  might be missing some high-pitched songs/calls of distant birds	
+NoiseSummary	  probably detecting only the loudest/closest birds	
+NoiseSummary	 normal background noises; no interference	
+NoiseSummary	Unknown	
+ParkUnit	Agate Fossil Beds	
+ParkUnit	Arkansas Post	
+ParkUnit	Effigy Mounds	
+ParkUnit	George Washington Carver	
+ParkUnit	Herbert Hoover	
+ParkUnit	Homestead	
+ParkUnit	Hopewell Culture	
+ParkUnit	Lincoln Boyhood	
+ParkUnit	Pea Ridge	
+ParkUnit	Pipestone	
+ParkUnit	Tallgrass Prairie	
+ParkUnit	Wilson's Creek	
+Rain	Unknown	
+Rain	heavy rain	
+Rain	light drizzle	
+Rain	light rain	
+Rain	mist or fog	
+Rain	no rain	
+Rain	snow	
+ScientificName	Accipiter cooperii	
+ScientificName	Accipiter striatus	
+ScientificName	Actitis macularius	
+ScientificName	Agelaius phoeniceus	
+ScientificName	Aix sponsa	
+ScientificName	Ammodramus henslowii	
+ScientificName	Ammodramus savannarum	
+ScientificName	Anas clypeata	
+ScientificName	Anas cyanoptera	
+ScientificName	Anas discors	
+ScientificName	Anas platyrhynchos	
+ScientificName	Anhinga anhinga	
+ScientificName	Antrostomus carolinensis	
+ScientificName	Antrostomus vociferus	
+ScientificName	Archilochus colubris	
+ScientificName	Ardea alba	
+ScientificName	Ardea herodias	
+ScientificName	Athene cunicularia	
+ScientificName	Aythya americana	
+ScientificName	Baeolophus bicolor	
+ScientificName	Bartramia longicauda	
+ScientificName	Bombycilla cedrorum	
+ScientificName	Botaurus lentiginosus	
+ScientificName	Branta canadensis	
+ScientificName	Bubo virginianus	
+ScientificName	Bubulcus ibis	
+ScientificName	Buteo jamaicensis	
+ScientificName	Buteo lineatus	
+ScientificName	Buteo platypterus	
+ScientificName	Buteo swainsoni	
+ScientificName	Butorides virescens	
+ScientificName	Calamospiza melanocorys	
+ScientificName	Calcarius lapponicus	
+ScientificName	Calidris pusilla	
+ScientificName	Cardellina canadensis	
+ScientificName	Cardellina pusilla	
+ScientificName	Cardinalis cardinalis	
+ScientificName	Cathartes aura	
+ScientificName	Catharus fuscescens	
+ScientificName	Catharus guttatus	
+ScientificName	Catharus ustulatus	
+ScientificName	Certhia americana	
+ScientificName	Chaetura pelagica	
+ScientificName	Charadrius vociferus	
+ScientificName	Chlidonias niger	
+ScientificName	Chondestes grammacus	
+ScientificName	Chordeiles minor	
+ScientificName	Circus cyaneus	
+ScientificName	Cistothorus palustris	
+ScientificName	Cistothorus platensis	
+ScientificName	Coccyzus americanus	
+ScientificName	Coccyzus erythropthalmus	
+ScientificName	Colaptes auratus	
+ScientificName	Colinus virginianus	
+ScientificName	Columba livia	
+ScientificName	Contopus cooperi	
+ScientificName	Contopus virens	
+ScientificName	Coragyps atratus	
+ScientificName	Corvus brachyrhynchos	
+ScientificName	Corvus ossifragus	
+ScientificName	Cyanocitta cristata	
+ScientificName	Dolichonyx oryzivorus	
+ScientificName	Dryobates pubescens	
+ScientificName	Dryocopus pileatus	
+ScientificName	Dumetella carolinensis	
+ScientificName	Egretta caerulea	
+ScientificName	Egretta thula	
+ScientificName	Empidonax alnorum	
+ScientificName	Empidonax difficilis	
+ScientificName	Empidonax flaviventris	
+ScientificName	Empidonax minimus	
+ScientificName	Empidonax traillii	
+ScientificName	Empidonax virescens	
+ScientificName	Eremophila alpestris	
+ScientificName	Eudocimus albus	
+ScientificName	Euphagus carolinus	
+ScientificName	Euphagus cyanocephalus	
+ScientificName	Falco peregrinus	
+ScientificName	Falco sparverius	
+ScientificName	Fulica americana	
+ScientificName	Gallinago gallinago	
+ScientificName	Gallinula chloropus	
+ScientificName	Geothlypis formosa	
+ScientificName	Geothlypis trichas	
+ScientificName	Haemorhous mexicanus	
+ScientificName	Haemorhous purpreus	
+ScientificName	Haliaeetus leucocephalus	
+ScientificName	Helmitheros vermivorum	
+ScientificName	Hirundo rustica	
+ScientificName	Hylocichla mustelina	
+ScientificName	Icteria virens	
+ScientificName	Icterus galbula	
+ScientificName	Icterus spurius	
+ScientificName	Ictinia mississippiensis	
+ScientificName	Ixobrychus exilis	
+ScientificName	Junco hyemalis	
+ScientificName	Lanius ludovicianus	
+ScientificName	Larus delawarensis	
+ScientificName	Leiothlypis celata	
+ScientificName	Leiothlypis peregrina	
+ScientificName	Leiothlypis ruficapilla	
+ScientificName	Leuconotopicus villosus	
+ScientificName	Lophodytes cucullatus	
+ScientificName	Megaceryle alcyon	
+ScientificName	Melanerpes carolinus	
+ScientificName	Melanerpes erythrocephalus	
+ScientificName	Meleagris gallopavo	
+ScientificName	Melospiza georgiana	
+ScientificName	Melospiza lincolnii	
+ScientificName	Melospiza melodia	
+ScientificName	Mimus polyglottos	
+ScientificName	Mniotilta varia	
+ScientificName	Molothrus ater	
+ScientificName	Myiarchus crinitus	
+ScientificName	Nycticorax nycticorax	
+ScientificName	Parkesia motacilla	
+ScientificName	Parkesia noveboracensis	
+ScientificName	Passer domesticus	
+ScientificName	Passerculus sandwichensis	
+ScientificName	Passerina caerulea	
+ScientificName	Passerina ciris	
+ScientificName	Passerina cyanea	
+ScientificName	Petrochelidon pyrrhonota	
+ScientificName	Peucaea aestivalis	
+ScientificName	Phalacrocorax auritus	
+ScientificName	Phasianus colchicus	
+ScientificName	Pheucticus ludovicianus	
+ScientificName	Pipilo erythrophthalmus	
+ScientificName	Pipilo maculatus	
+ScientificName	Piranga olivacea	
+ScientificName	Piranga rubra	
+ScientificName	Plegadis chihi	
+ScientificName	Podilymbus podiceps	
+ScientificName	Poecile atricapillus	
+ScientificName	Poecile carolinensis	
+ScientificName	Polioptila caerulea	
+ScientificName	Pooecetes gramineus	
+ScientificName	Porphyrio martinica	
+ScientificName	Porzana carolina	
+ScientificName	Progne subis	
+ScientificName	Protonotaria citrea	
+ScientificName	Quiscalus mexicanus	
+ScientificName	Quiscalus quiscula	
+ScientificName	Rallus elegans	
+ScientificName	Regulus calendula	
+ScientificName	Regulus satrapa	
+ScientificName	Riparia riparia	
+ScientificName	Salpinctes obsoletus	
+ScientificName	Sayornis phoebe	
+ScientificName	Sayornis saya	
+ScientificName	Scolopax minor	
+ScientificName	Seiurus aurocapilla	
+ScientificName	Setophaga americana	
+ScientificName	Setophaga caerulescens	
+ScientificName	Setophaga castanea	
+ScientificName	Setophaga cerulea	
+ScientificName	Setophaga citrina	
+ScientificName	Setophaga coronata	
+ScientificName	Setophaga discolor	
+ScientificName	Setophaga dominica	
+ScientificName	Setophaga fusca	
+ScientificName	Setophaga magnolia	
+ScientificName	Setophaga palmarum	
+ScientificName	Setophaga pensylvanica	
+ScientificName	Setophaga petechia	
+ScientificName	Setophaga pinus	
+ScientificName	Setophaga ruticilla	
+ScientificName	Setophaga striata	
+ScientificName	Setophaga virens	
+ScientificName	Sialia sialis	
+ScientificName	Sitta carolinensis	
+ScientificName	Sphyrapicus varius	
+ScientificName	Spinus tristis	
+ScientificName	Spiza americana	
+ScientificName	Spizella pallida	
+ScientificName	Spizella passerina	
+ScientificName	Spizella pusilla	
+ScientificName	Spizelloides arborea	
+ScientificName	Stelgidopteryx serripennis	
+ScientificName	Sternula antillarum	
+ScientificName	Streptopelia decaocto	
+ScientificName	Strix varia	
+ScientificName	Sturnella magna	
+ScientificName	Sturnella neglecta	
+ScientificName	Sturnus vulgaris	
+ScientificName	Tachycineta bicolor	
+ScientificName	Thryomanes bewickii	
+ScientificName	Thryothorus ludovicianus	
+ScientificName	Toxostoma rufum	
+ScientificName	Tringa solitaria	
+ScientificName	Troglodytes aedon	
+ScientificName	Tryngites subruficollis	
+ScientificName	Turdus migratorius	
+ScientificName	Tympanuchus cupido	
+ScientificName	Tympanuchus phasianellus	
+ScientificName	Tyrannus forficatus	
+ScientificName	Tyrannus tyrannus	
+ScientificName	Tyrannus verticalis	
+ScientificName	Unidentified bird	
+ScientificName	Unidentified chickadee	
+ScientificName	Unidentified flycatcher	
+ScientificName	Unidentified meadowlark	
+ScientificName	Unidentified owl	
+ScientificName	Unidentified sparrow	
+ScientificName	Unidentified swallow	
+ScientificName	Unidentified vireo	
+ScientificName	Unidentified warbler	
+ScientificName	Unidentified woodpecker	
+ScientificName	Unidentified wren	
+ScientificName	Vermivora chrysoptera	
+ScientificName	Vermivora cyanoptera	
+ScientificName	Vireo bellii	
+ScientificName	Vireo flavifrons	
+ScientificName	Vireo gilvus	
+ScientificName	Vireo griseus	
+ScientificName	Vireo olivaceus	
+ScientificName	Vireo philadelphicus	
+ScientificName	Vireo solitarius	
+ScientificName	Xanthocephalus xanthocephalus	
+ScientificName	Zenaida asiatica	
+ScientificName	Zenaida macroura	
+ScientificName	Zonotrichia albicollis	
+ScientificName	Zonotrichia leucophrys	
+Sex	Female	
+Sex	Male	
+Sex	NoVal	
+Sex	Unk	
+TSN	1077350	
+TSN	1077358	
+TSN	1145276	
+TSN	1145285	
+TSN	174505	
+TSN	174717	
+TSN	174755	
+TSN	174773	
+TSN	174793	
+TSN	174803	
+TSN	174813	
+TSN	174827	
+TSN	174832	
+TSN	174846	
+TSN	174856	
+TSN	174926	
+TSN	174930	
+TSN	174999	
+TSN	175063	
+TSN	175086	
+TSN	175089	
+TSN	175096	
+TSN	175122	
+TSN	175125	
+TSN	175183	
+TSN	175265	
+TSN	175272	
+TSN	175304	
+TSN	175309	
+TSN	175350	
+TSN	175359	
+TSN	175365	
+TSN	175367	
+TSN	175420	
+TSN	175430	
+TSN	175604	
+TSN	175622	
+TSN	175834	
+TSN	175841	
+TSN	175863	
+TSN	175905	
+TSN	176136	
+TSN	176207	
+TSN	176242	
+TSN	176284	
+TSN	176292	
+TSN	176520	
+TSN	176580	
+TSN	176610	
+TSN	176615	
+TSN	176667	
+TSN	176684	
+TSN	176700	
+TSN	176830	
+TSN	176959	
+TSN	177071	
+TSN	177121	
+TSN	177125	
+TSN	177139	
+TSN	177831	
+TSN	177834	
+TSN	177884	
+TSN	177921	
+TSN	177946	
+TSN	177979	
+TSN	178001	
+TSN	178032	
+TSN	178106	
+TSN	178148	
+TSN	178154	
+TSN	178166	
+TSN	178186	
+TSN	178195	
+TSN	178202	
+TSN	178277	
+TSN	178279	
+TSN	178287	
+TSN	178293	
+TSN	178309	
+TSN	178329	
+TSN	178333	
+TSN	178338	
+TSN	178339	
+TSN	178340	
+TSN	178341	
+TSN	178344	
+TSN	178348	
+TSN	178359	
+TSN	178423	
+TSN	178431	
+TSN	178436	
+TSN	178443	
+TSN	178448	
+TSN	178455	
+TSN	178464	
+TSN	178515	
+TSN	178532	
+TSN	178539	
+TSN	178541	
+TSN	178562	
+TSN	178581	
+TSN	178605	
+TSN	178608	
+TSN	178614	
+TSN	178620	
+TSN	178625	
+TSN	178627	
+TSN	178697	
+TSN	178775	
+TSN	178803	
+TSN	178838	
+TSN	178842	
+TSN	178844	
+TSN	178846	
+TSN	178852	
+TSN	178944	
+TSN	178964	
+TSN	178979	
+TSN	178988	
+TSN	178991	
+TSN	179003	
+TSN	179009	
+TSN	179010	
+TSN	179021	
+TSN	179022	
+TSN	179023	
+TSN	179030	
+TSN	179032	
+TSN	179034	
+TSN	179039	
+TSN	179043	
+TSN	179045	
+TSN	179064	
+TSN	179083	
+TSN	179091	
+TSN	179094	
+TSN	179104	
+TSN	179109	
+TSN	179112	
+TSN	179124	
+TSN	179139	
+TSN	179150	
+TSN	179156	
+TSN	179165	
+TSN	179249	
+TSN	179276	
+TSN	179312	
+TSN	179314	
+TSN	179333	
+TSN	179340	
+TSN	179366	
+TSN	179371	
+TSN	179410	
+TSN	179435	
+TSN	179439	
+TSN	179443	
+TSN	179455	
+TSN	179462	
+TSN	179484	
+TSN	179488	
+TSN	179492	
+TSN	179526	
+TSN	179628	
+TSN	179637	
+TSN	179680	
+TSN	179731	
+TSN	179737	
+TSN	179759	
+TSN	179777	
+TSN	179779	
+TSN	179788	
+TSN	179796	
+TSN	179801	
+TSN	179853	
+TSN	179865	
+TSN	179870	
+TSN	179883	
+TSN	179888	
+TSN	554135	
+TSN	554138	
+TSN	554221	
+TSN	554256	
+TSN	554268	
+TSN	554380	
+TSN	554382	
+TSN	554383	
+TSN	707815	
+TSN	726049	
+TSN	726195	
+TSN	726198	
+TSN	726205	
+TSN	824127	
+TSN	950009	
+TSN	950010	
+TSN	950011	
+TSN	950014	
+TSN	950015	
+TSN	950018	
+TSN	950025	
+TSN	950029	
+TSN	950032	
+TSN	950033	
+TSN	950035	
+TSN	950036	
+TSN	950037	
+TSN	950039	
+TSN	950040	
+TSN	950041	
+TSN	950042	
+TSN	950043	
+TSN	950045	
+TSN	950046	
+TSN	950049	
+TSN	950052	
+TSN	950061	
+TSN	950079	
+TSN	950080	
+TSN	997733	
+TSN	997803	
+TSN	997805	
+TSN	997961	
+TSN	NULL	
+WindDesc	Unknown	
+WindDesc	calm, smoke rises vertically	
+WindDesc	fresh breeze, small trees sway	
+WindDesc	leaves and twigs in constant motion	
+WindDesc	light breeze felt on face, leaves rustle	
+WindDesc	small branches move, raises loose paper, dust rises	
+WindDesc	smoke drifts	
+WindDesc	strong breeze, large branches moving, wind whistling	
+WindSpeed	(13-19 km/h)	
+WindSpeed	(2-5 km/h)	
+WindSpeed	(20-29 km/h)	
+WindSpeed	(30-39 km/h)	
+WindSpeed	(40-50 km/h)	
+WindSpeed	(6-12 km/h)	
+WindSpeed	(< 2 km/h)	
+WindSpeed	Unknown	
