@@ -1,0 +1,8 @@
+attributeName	code	definition
+CanopyType	Conifer	
+CanopyType	Hardwood	
+CanopyType	Total	
+ReadingNumber	1	
+ReadingNumber	2	
+ReadingNumber	3	
+ReadingNumber	4	

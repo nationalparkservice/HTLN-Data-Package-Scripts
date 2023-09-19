@@ -1,0 +1,16 @@
+attributeName	code	definition
+CanopyType	Conifer	
+CanopyType	Hardwood	
+CanopyType	Total	
+ParkUnit	Agate Fossil Beds	
+ParkUnit	Arkansas Post	
+ParkUnit	Effigy Mounds	
+ParkUnit	George Washington Carver	
+ParkUnit	Herbert Hoover	
+ParkUnit	Homestead	
+ParkUnit	Hopewell Culture	
+ParkUnit	Lincoln Boyhood	
+ParkUnit	Pea Ridge	
+ParkUnit	Pipestone	
+ParkUnit	Tallgrass Prairie	
+ParkUnit	Wilson's Creek	

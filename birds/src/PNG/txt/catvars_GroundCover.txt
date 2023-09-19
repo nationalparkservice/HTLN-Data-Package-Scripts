@@ -1,0 +1,28 @@
+attributeName	code	definition
+CoverClassRange	1 - 5%	
+CoverClassRange	25 - 50%	
+CoverClassRange	5 - 25%	
+CoverClassRange	50 - 75%	
+CoverClassRange	75 - 95%	
+CoverClassRange	95 - 100%	
+CoverClassRange	No cover	
+CoverClassRange	trace - 1%	
+GroundCover	Bare Soil	
+GroundCover	Conifer Litter	
+GroundCover	Deciduous Litter	
+GroundCover	Grass Litter	
+GroundCover	Rock	
+GroundCover	Unvegetated	
+GroundCover	Woody Debris	
+ParkUnit	Agate Fossil Beds	
+ParkUnit	Arkansas Post	
+ParkUnit	Effigy Mounds	
+ParkUnit	George Washington Carver	
+ParkUnit	Herbert Hoover	
+ParkUnit	Homestead	
+ParkUnit	Hopewell Culture	
+ParkUnit	Lincoln Boyhood	
+ParkUnit	Pea Ridge	
+ParkUnit	Pipestone	
+ParkUnit	Tallgrass Prairie	
+ParkUnit	Wilson's Creek	

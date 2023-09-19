@@ -1,0 +1,25 @@
+attributeName	code	definition
+CoverClassCode	0	
+CoverClassCode	1	
+CoverClassCode	2	
+CoverClassCode	3	
+CoverClassCode	4	
+CoverClassCode	5	
+CoverClassCode	6	
+CoverClassCode	7	
+CoverClassRange	1 - 5%	
+CoverClassRange	25 - 50%	
+CoverClassRange	5 - 25%	
+CoverClassRange	50 - 75%	
+CoverClassRange	75 - 95%	
+CoverClassRange	95 - 100%	
+CoverClassRange	No cover	
+CoverClassRange	trace - 1%	
+FoliarCover	Cool Season Grass	
+FoliarCover	Forbs	
+FoliarCover	Moss and Lichen	
+FoliarCover	Shrubs and Vines	
+FoliarCover	Total Foliar Cover ( < 1.5 m tall )	
+FoliarCover	Tree Seedlings	
+FoliarCover	Warm Season Grass	
+FoliarCover	unknown	

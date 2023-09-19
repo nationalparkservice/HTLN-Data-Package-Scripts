@@ -1,0 +1,844 @@
+Plot,ParkCode,ParkName,HabitatType,Slope,SlopeVariability,Aspect,AspectVariability,InRiparianCorridor
+AGFO1,AGFO,Agate Fossil Beds,prairie,2,medium,165,medium,0
+AGFO10,AGFO,Agate Fossil Beds,prairie,1,low,335,medium,0
+AGFO11,AGFO,Agate Fossil Beds,prairie,2,medium,300,high,0
+AGFO12,AGFO,Agate Fossil Beds,prairie,4,medium,327,medium,0
+AGFO13,AGFO,Agate Fossil Beds,prairie,6,low,31,low,0
+AGFO14,AGFO,Agate Fossil Beds,prairie,4,medium,310,high,0
+AGFO15,AGFO,Agate Fossil Beds,prairie,2,medium,310,high,0
+AGFO16,AGFO,Agate Fossil Beds,prairie,1,low,355,medium,0
+AGFO17,AGFO,Agate Fossil Beds,riparian,1,low,335,medium,1
+AGFO18,AGFO,Agate Fossil Beds,riparian,3,medium,0,low,1
+AGFO19,AGFO,Agate Fossil Beds,riparian,2,low,317,low,1
+AGFO2,AGFO,Agate Fossil Beds,prairie,15,high,45,high,0
+AGFO20,AGFO,Agate Fossil Beds,riparian,0,low,135,low,1
+AGFO21,AGFO,Agate Fossil Beds,riparian,0,low,85,low,1
+AGFO22,AGFO,Agate Fossil Beds,riparian,1,low,155,low,1
+AGFO23,AGFO,Agate Fossil Beds,riparian,2,medium,300,high,1
+AGFO24,AGFO,Agate Fossil Beds,riparian,0,low,97,low,1
+AGFO25,AGFO,Agate Fossil Beds,riparian,0,medium,104,medium,1
+AGFO26,AGFO,Agate Fossil Beds,riparian,2,low,289,low,1
+AGFO27,AGFO,Agate Fossil Beds,riparian,0,low,105,low,1
+AGFO28,AGFO,Agate Fossil Beds,riparian,0,low,120,low,1
+AGFO29,AGFO,Agate Fossil Beds,riparian,1,low,10,low,1
+AGFO3,AGFO,Agate Fossil Beds,prairie,15,high,240,high,0
+AGFO30,AGFO,Agate Fossil Beds,riparian,1,low,32,low,1
+AGFO31,AGFO,Agate Fossil Beds,prairie,2,low,130,medium,0
+AGFO32,AGFO,Agate Fossil Beds,prairie,5,medium,85,high,0
+AGFO33,AGFO,Agate Fossil Beds,prairie,5,medium,125,medium,0
+AGFO34,AGFO,Agate Fossil Beds,prairie,1,low,90,low,0
+AGFO35,AGFO,Agate Fossil Beds,prairie,4,medium,198,medium,0
+AGFO36,AGFO,Agate Fossil Beds,prairie,2,medium,97,medium,0
+AGFO37,AGFO,Agate Fossil Beds,prairie,3,low,171,medium,0
+AGFO38,AGFO,Agate Fossil Beds,prairie,4,low,122,low,0
+AGFO39,AGFO,Agate Fossil Beds,prairie,1,low,155,low,0
+AGFO4,AGFO,Agate Fossil Beds,prairie,5,medium,355,high,0
+AGFO40,AGFO,Agate Fossil Beds,prairie,6,low,153,medium,0
+AGFO41,AGFO,Agate Fossil Beds,prairie,5,low,122,medium,0
+AGFO42,AGFO,Agate Fossil Beds,prairie,8,medium,150,medium,0
+AGFO43,AGFO,Agate Fossil Beds,prairie,3,low,168,low,0
+AGFO44,AGFO,Agate Fossil Beds,prairie,3,low,151,low,0
+AGFO45,AGFO,Agate Fossil Beds,prairie,23,low,148,low,0
+AGFO46,AGFO,Agate Fossil Beds,prairie,0,low,120,low,0
+AGFO47,AGFO,Agate Fossil Beds,prairie,6,medium,341,medium,0
+AGFO48,AGFO,Agate Fossil Beds,prairie,1,low,150,low,0
+AGFO49,AGFO,Agate Fossil Beds,prairie,1,low,165,low,0
+AGFO5,AGFO,Agate Fossil Beds,prairie,5,medium,215,high,0
+AGFO50,AGFO,Agate Fossil Beds,prairie,6,medium,19,high,0
+AGFO51,AGFO,Agate Fossil Beds,prairie,1,low,130,low,0
+AGFO52,AGFO,Agate Fossil Beds,prairie,0,high,20,high,0
+AGFO53,AGFO,Agate Fossil Beds,prairie,13,high,320,high,0
+AGFO54,AGFO,Agate Fossil Beds,prairie,7,high,233,high,0
+AGFO6,AGFO,Agate Fossil Beds,prairie,4,low,217,high,0
+AGFO7,AGFO,Agate Fossil Beds,prairie,2,low,333,low,0
+AGFO8,AGFO,Agate Fossil Beds,prairie,1,low,313,low,0
+AGFO9,AGFO,Agate Fossil Beds,prairie,13,medium,348,high,0
+ARPO1,ARPO,Arkansas Post,Unknown,2.5,low,246,low,0
+ARPO10,ARPO,Arkansas Post,Unknown,1,low,120,medium,0
+ARPO11,ARPO,Arkansas Post,Unknown,1,low,118,low,0
+ARPO12,ARPO,Arkansas Post,Unknown,0,low,272,low,0
+ARPO13,ARPO,Arkansas Post,Unknown,0,low,326,low,0
+ARPO14,ARPO,Arkansas Post,Unknown,0.5,low,12,low,0
+ARPO15,ARPO,Arkansas Post,Unknown,0,low,38,low,0
+ARPO16,ARPO,Arkansas Post,Unknown,0,low,116,low,0
+ARPO17,ARPO,Arkansas Post,Unknown,0,low,332,low,0
+ARPO18,ARPO,Arkansas Post,Unknown,2,low,244,low,0
+ARPO19,ARPO,Arkansas Post,Unknown,0.5,low,208,low,0
+ARPO2,ARPO,Arkansas Post,Unknown,0.5,low,176,low,0
+ARPO20,ARPO,Arkansas Post,Unknown,0,low,96,low,0
+ARPO21,ARPO,Arkansas Post,Unknown,0,low,168,low,0
+ARPO22,ARPO,Arkansas Post,Unknown,1,low,314,low,0
+ARPO23,ARPO,Arkansas Post,Unknown,4,low,123,low,0
+ARPO24,ARPO,Arkansas Post,Unknown,0,low,272,low,0
+ARPO25,ARPO,Arkansas Post,Unknown,4,low,30,low,0
+ARPO26,ARPO,Arkansas Post,Unknown,0,low,138,low,0
+ARPO27,ARPO,Arkansas Post,Unknown,1,low,90,low,0
+ARPO28,ARPO,Arkansas Post,Unknown,9,low,75,low,0
+ARPO29,ARPO,Arkansas Post,Unknown,0,low,136,low,0
+ARPO3,ARPO,Arkansas Post,Unknown,1,low,168,low,0
+ARPO30,ARPO,Arkansas Post,Unknown,3,low,324,low,0
+ARPO31,ARPO,Arkansas Post,Unknown,1.5,low,190,low,0
+ARPO32,ARPO,Arkansas Post,Unknown,1.5,low,226,low,0
+ARPO33,ARPO,Arkansas Post,Unknown,0.5,low,120,low,0
+ARPO34,ARPO,Arkansas Post,Unknown,3,low,266,low,0
+ARPO35,ARPO,Arkansas Post,Unknown,1,low,82,low,0
+ARPO36,ARPO,Arkansas Post,Unknown,0,low,82,low,0
+ARPO4,ARPO,Arkansas Post,Unknown,1.5,low,209,medium,0
+ARPO5,ARPO,Arkansas Post,Unknown,1,medium,51,medium,0
+ARPO6,ARPO,Arkansas Post,Unknown,1.5,low,129,low,0
+ARPO7,ARPO,Arkansas Post,Unknown,3,low,228,low,0
+ARPO8,ARPO,Arkansas Post,Unknown,0,low,0,low,0
+ARPO9,ARPO,Arkansas Post,Unknown,2,low,267,low,0
+EFMO1,EFMO,Effigy Mounds,Unknown,9,medium,88,low,0
+EFMO10,EFMO,Effigy Mounds,Unknown,NULL,Unknown,0,Unknown,0
+EFMO11,EFMO,Effigy Mounds,Unknown,NULL,Unknown,0,Unknown,0
+EFMO12,EFMO,Effigy Mounds,Unknown,17,low,172,medium,0
+EFMO13,EFMO,Effigy Mounds,Unknown,1,low,154,low,1
+EFMO14,EFMO,Effigy Mounds,Unknown,2,low,89,low,1
+EFMO15,EFMO,Effigy Mounds,Unknown,9,high,270,high,1
+EFMO16,EFMO,Effigy Mounds,Unknown,4,high,227,high,0
+EFMO17,EFMO,Effigy Mounds,Unknown,12,low,132,low,0
+EFMO18,EFMO,Effigy Mounds,Unknown,13,low,38,low,0
+EFMO19,EFMO,Effigy Mounds,Unknown,3,low,359,low,0
+EFMO2,EFMO,Effigy Mounds,Unknown,9,medium,169,low,0
+EFMO20,EFMO,Effigy Mounds,Unknown,NULL,Unknown,0,Unknown,0
+EFMO21,EFMO,Effigy Mounds,Unknown,NULL,Unknown,0,Unknown,0
+EFMO22,EFMO,Effigy Mounds,Unknown,21,medium,47,low,0
+EFMO23,EFMO,Effigy Mounds,Unknown,NULL,Unknown,0,Unknown,0
+EFMO24,EFMO,Effigy Mounds,Unknown,16,low,208,low,0
+EFMO25,EFMO,Effigy Mounds,Unknown,14,low,287,low,0
+EFMO26,EFMO,Effigy Mounds,Unknown,20,low,36,low,0
+EFMO27,EFMO,Effigy Mounds,Unknown,1,low,94,low,0
+EFMO28,EFMO,Effigy Mounds,Unknown,NULL,Unknown,0,Unknown,0
+EFMO29,EFMO,Effigy Mounds,Unknown,NULL,Unknown,0,Unknown,0
+EFMO3,EFMO,Effigy Mounds,Unknown,7,low,347,low,0
+EFMO30,EFMO,Effigy Mounds,Unknown,NULL,Unknown,0,Unknown,0
+EFMO31,EFMO,Effigy Mounds,Unknown,NULL,Unknown,NULL,Unknown,1
+EFMO32,EFMO,Effigy Mounds,Unknown,NULL,Unknown,0,Unknown,0
+EFMO33,EFMO,Effigy Mounds,Unknown,19,medium,204,low,0
+EFMO34,EFMO,Effigy Mounds,Unknown,14,medium,32,low,0
+EFMO35,EFMO,Effigy Mounds,Unknown,NULL,Unknown,0,Unknown,0
+EFMO36,EFMO,Effigy Mounds,Unknown,NULL,Unknown,0,Unknown,0
+EFMO37,EFMO,Effigy Mounds,Unknown,27,low,308,low,1
+EFMO38,EFMO,Effigy Mounds,Unknown,35,low,150,low,0
+EFMO39,EFMO,Effigy Mounds,Unknown,8,low,300,low,0
+EFMO4,EFMO,Effigy Mounds,Unknown,7,low,321,low,0
+EFMO40,EFMO,Effigy Mounds,Unknown,11,medium,346,medium,1
+EFMO41,EFMO,Effigy Mounds,Unknown,11,low,18,low,0
+EFMO42,EFMO,Effigy Mounds,Unknown,21,low,268,low,0
+EFMO43,EFMO,Effigy Mounds,Unknown,15,low,252,low,1
+EFMO44,EFMO,Effigy Mounds,Unknown,30,low,268,low,0
+EFMO45,EFMO,Effigy Mounds,Unknown,13,low,27,low,0
+EFMO46,EFMO,Effigy Mounds,Unknown,19,low,298,low,0
+EFMO47,EFMO,Effigy Mounds,Unknown,6,medium,304,low,0
+EFMO48,EFMO,Effigy Mounds,Unknown,NULL,Unknown,0,Unknown,0
+EFMO49,EFMO,Effigy Mounds,Unknown,NULL,Unknown,NULL,Unknown,0
+EFMO5,EFMO,Effigy Mounds,Unknown,14,high,43,high,0
+EFMO50,EFMO,Effigy Mounds,Unknown,NULL,Unknown,0,Unknown,0
+EFMO51,EFMO,Effigy Mounds,Unknown,NULL,Unknown,0,Unknown,0
+EFMO52,EFMO,Effigy Mounds,Unknown,1,low,359,low,0
+EFMO6,EFMO,Effigy Mounds,Unknown,NULL,Unknown,0,Unknown,0
+EFMO7,EFMO,Effigy Mounds,Unknown,NULL,Unknown,0,Unknown,0
+EFMO8,EFMO,Effigy Mounds,Unknown,7,high,211,high,1
+EFMO9,EFMO,Effigy Mounds,Unknown,12,low,29,low,0
+GWCA1,GWCA,George Washington Carver,Unknown,2,high,132,medium,1
+GWCA10,GWCA,George Washington Carver,Unknown,1,low,235,low,0
+GWCA11,GWCA,George Washington Carver,Unknown,1,medium,149,low,1
+GWCA12,GWCA,George Washington Carver,Unknown,1,low,240,low,0
+GWCA13,GWCA,George Washington Carver,Unknown,2,low,210,low,0
+GWCA14,GWCA,George Washington Carver,Unknown,2,low,173,low,0
+GWCA15,GWCA,George Washington Carver,Unknown,1,low,229,low,0
+GWCA16,GWCA,George Washington Carver,Unknown,1,low,235,low,0
+GWCA17,GWCA,George Washington Carver,Unknown,1,low,236,low,0
+GWCA18,GWCA,George Washington Carver,Unknown,3,low,105,low,0
+GWCA19,GWCA,George Washington Carver,Unknown,1,low,220,low,0
+GWCA2,GWCA,George Washington Carver,Unknown,1,low,311,low,1
+GWCA20,GWCA,George Washington Carver,Unknown,1,low,190,low,0
+GWCA21,GWCA,George Washington Carver,Unknown,1,low,230,low,0
+GWCA22,GWCA,George Washington Carver,Unknown,1,low,228,low,0
+GWCA23,GWCA,George Washington Carver,Unknown,1,low,254,low,1
+GWCA24,GWCA,George Washington Carver,Unknown,1,low,239,low,0
+GWCA25,GWCA,George Washington Carver,Unknown,1,low,225,low,0
+GWCA26,GWCA,George Washington Carver,Unknown,1,low,347,low,1
+GWCA27,GWCA,George Washington Carver,Unknown,4,low,276,low,1
+GWCA28,GWCA,George Washington Carver,Unknown,2,low,184,low,1
+GWCA29,GWCA,George Washington Carver,Unknown,1,low,194,low,1
+GWCA3,GWCA,George Washington Carver,Unknown,2,low,249,low,0
+GWCA30,GWCA,George Washington Carver,Unknown,1,low,178,low,1
+GWCA31,GWCA,George Washington Carver,Unknown,1,low,335,low,0
+GWCA32,GWCA,George Washington Carver,Unknown,1,low,344,low,1
+GWCA33,GWCA,George Washington Carver,Unknown,3,medium,314,low,0
+GWCA34,GWCA,George Washington Carver,Unknown,7,low,1,low,1
+GWCA35,GWCA,George Washington Carver,Unknown,2,low,349,low,0
+GWCA36,GWCA,George Washington Carver,Unknown,1,low,309,low,0
+GWCA37,GWCA,George Washington Carver,Unknown,4,low,334,low,0
+GWCA38,GWCA,George Washington Carver,Unknown,1,low,359,low,0
+GWCA39,GWCA,George Washington Carver,Unknown,2,low,4,low,0
+GWCA4,GWCA,George Washington Carver,Unknown,1,low,294,low,0
+GWCA40,GWCA,George Washington Carver,Unknown,3,low,281,low,0
+GWCA41,GWCA,George Washington Carver,Unknown,1,low,304,low,0
+GWCA42,GWCA,George Washington Carver,Unknown,2,low,304,low,0
+GWCA43,GWCA,George Washington Carver,Unknown,2,low,316,low,0
+GWCA44,GWCA,George Washington Carver,Unknown,3,low,313,low,0
+GWCA45,GWCA,George Washington Carver,Unknown,2,low,298,low,0
+GWCA46,GWCA,George Washington Carver,Unknown,1,low,277,low,0
+GWCA47,GWCA,George Washington Carver,Unknown,2,low,24,low,0
+GWCA48,GWCA,George Washington Carver,Unknown,1,low,295,low,0
+GWCA49,GWCA,George Washington Carver,Unknown,2,low,244,low,0
+GWCA5,GWCA,George Washington Carver,Unknown,2,low,201,low,0
+GWCA50,GWCA,George Washington Carver,Unknown,4,low,235,low,0
+GWCA51,GWCA,George Washington Carver,Unknown,1,low,169,low,0
+GWCA52,GWCA,George Washington Carver,Unknown,1,low,224,low,0
+GWCA53,GWCA,George Washington Carver,Unknown,0,low,281,low,0
+GWCA54,GWCA,George Washington Carver,Unknown,2,low,233,low,0
+GWCA55,GWCA,George Washington Carver,Unknown,4,low,180,low,0
+GWCA56,GWCA,George Washington Carver,Unknown,2,low,230,low,0
+GWCA57,GWCA,George Washington Carver,Unknown,1,low,226,low,0
+GWCA58,GWCA,George Washington Carver,Unknown,1,low,181,low,0
+GWCA59,GWCA,George Washington Carver,Unknown,1,low,208,low,0
+GWCA6,GWCA,George Washington Carver,Unknown,2,low,283,low,0
+GWCA60,GWCA,George Washington Carver,Unknown,1,low,198,low,0
+GWCA61,GWCA,George Washington Carver,Unknown,1,low,234,low,0
+GWCA62,GWCA,George Washington Carver,Unknown,2,low,332,low,1
+GWCA63,GWCA,George Washington Carver,Unknown,1,low,242,low,0
+GWCA64,GWCA,George Washington Carver,Unknown,1,low,218,low,0
+GWCA65,GWCA,George Washington Carver,Unknown,1,low,234,low,0
+GWCA66,GWCA,George Washington Carver,Unknown,2,low,254,low,0
+GWCA67,GWCA,George Washington Carver,Unknown,3,low,344,low,1
+GWCA68,GWCA,George Washington Carver,Unknown,1,low,211,low,0
+GWCA69,GWCA,George Washington Carver,Unknown,1,low,229,low,0
+GWCA7,GWCA,George Washington Carver,Unknown,1,low,229,low,0
+GWCA70,GWCA,George Washington Carver,Unknown,1,low,238,low,0
+GWCA8,GWCA,George Washington Carver,Unknown,1,low,270,low,0
+GWCA9,GWCA,George Washington Carver,Unknown,2,low,136,low,0
+HEHO1,HEHO,Herbert Hoover,prairie,2,low,22,low,0
+HEHO10,HEHO,Herbert Hoover,Unknown,4,low,74,low,0
+HEHO11,HEHO,Herbert Hoover,Unknown,6,low,92,low,0
+HEHO12,HEHO,Herbert Hoover,Unknown,4,low,71,low,0
+HEHO13,HEHO,Herbert Hoover,Unknown,2,low,55,low,0
+HEHO14,HEHO,Herbert Hoover,Unknown,4,low,21,low,0
+HEHO15,HEHO,Herbert Hoover,Unknown,8,low,278,low,0
+HEHO16,HEHO,Herbert Hoover,Unknown,5,low,20,low,0
+HEHO17,HEHO,Herbert Hoover,Unknown,5,low,331,low,0
+HEHO18,HEHO,Herbert Hoover,Unknown,2,low,8,medium,0
+HEHO19,HEHO,Herbert Hoover,Unknown,8,low,64,low,0
+HEHO2,HEHO,Herbert Hoover,prairie,4,medium,31,medium,0
+HEHO20,HEHO,Herbert Hoover,Unknown,3,low,351,low,0
+HEHO21,HEHO,Herbert Hoover,Unknown,7,low,272,low,0
+HEHO22,HEHO,Herbert Hoover,Unknown,3,low,47,low,0
+HEHO23,HEHO,Herbert Hoover,Unknown,7,low,299,low,0
+HEHO24,HEHO,Herbert Hoover,Unknown,7,low,18,low,0
+HEHO25,HEHO,Herbert Hoover,Unknown,4,low,2,low,0
+HEHO26,HEHO,Herbert Hoover,Unknown,5,low,352,low,0
+HEHO27,HEHO,Herbert Hoover,Unknown,3,low,61,low,0
+HEHO28,HEHO,Herbert Hoover,Unknown,7,low,351,low,0
+HEHO29,HEHO,Herbert Hoover,Unknown,2,low,347,low,0
+HEHO3,HEHO,Herbert Hoover,prairie,4.5,medium,36,medium,0
+HEHO30,HEHO,Herbert Hoover,Unknown,2,low,357,low,0
+HEHO31,HEHO,Herbert Hoover,Unknown,7,low,322,low,0
+HEHO32,HEHO,Herbert Hoover,Unknown,2,low,355,low,0
+HEHO33,HEHO,Herbert Hoover,Unknown,4,low,31,low,0
+HEHO34,HEHO,Herbert Hoover,Unknown,2,medium,67,low,0
+HEHO35,HEHO,Herbert Hoover,Unknown,3,low,342,low,0
+HEHO36,HEHO,Herbert Hoover,Unknown,3,low,324,low,0
+HEHO37,HEHO,Herbert Hoover,Unknown,3,low,1,low,0
+HEHO38,HEHO,Herbert Hoover,Unknown,4,low,350,low,0
+HEHO4,HEHO,Herbert Hoover,prairie,4,medium,310,medium,0
+HEHO5,HEHO,Herbert Hoover,prairie,6,medium,281,medium,0
+HEHO6,HEHO,Herbert Hoover,prairie,6,medium,116,medium,0
+HEHO7,HEHO,Herbert Hoover,prairie,5,medium,292,medium,0
+HEHO8,HEHO,Herbert Hoover,prairie,5,medium,316,medium,0
+HEHO9,HEHO,Herbert Hoover,prairie,5,medium,122,medium,0
+HOCU1,HOCU,Hopewell Culture,woodland,0,low,289,low,0
+HOCU10,HOCU,Hopewell Culture,fallow field,0,low,39,low,0
+HOCU11,HOCU,Hopewell Culture,riparian,1,low,305,low,1
+HOCU11.2,HOCU,Hopewell Culture,Unknown,NULL,Unknown,NULL,Unknown,0
+HOCU11.4,HOCU,Hopewell Culture,Unknown,NULL,Unknown,NULL,Unknown,0
+HOCU11.6,HOCU,Hopewell Culture,Unknown,NULL,Unknown,NULL,Unknown,0
+HOCU11.8,HOCU,Hopewell Culture,Unknown,NULL,Unknown,NULL,Unknown,0
+HOCU12,HOCU,Hopewell Culture,fallow field,2,medium,220,medium,0
+HOCU13,HOCU,Hopewell Culture,shrubland,3,medium,232,medium,0
+HOCU13A,HOCU,Hopewell Culture,Unknown,NULL,Unknown,0,Unknown,0
+HOCU14,HOCU,Hopewell Culture,fallow field,1,low,2,low,0
+HOCU15,HOCU,Hopewell Culture,fallow field,2,low,190,low,0
+HOCU16,HOCU,Hopewell Culture,fallow field,1,low,336,low,0
+HOCU17,HOCU,Hopewell Culture,fallow field,1,low,220,low,0
+HOCU18,HOCU,Hopewell Culture,fallow field,3,low,60,low,0
+HOCU18.2,HOCU,Hopewell Culture,Unknown,NULL,Unknown,NULL,Unknown,0
+HOCU18.4,HOCU,Hopewell Culture,Unknown,NULL,Unknown,NULL,Unknown,0
+HOCU18.5,HOCU,Hopewell Culture,Unknown,NULL,Unknown,NULL,Unknown,0
+HOCU18.6,HOCU,Hopewell Culture,Unknown,NULL,Unknown,NULL,Unknown,0
+HOCU18.8,HOCU,Hopewell Culture,Unknown,NULL,Unknown,NULL,Unknown,0
+HOCU19,HOCU,Hopewell Culture,fallow field,2,low,9,low,0
+HOCU19.5,HOCU,Hopewell Culture,Unknown,NULL,Unknown,NULL,Unknown,0
+HOCU2,HOCU,Hopewell Culture,woodland,2.5,low,97,low,0
+HOCU20,HOCU,Hopewell Culture,fallow field,3,low,225,low,0
+HOCU21,HOCU,Hopewell Culture,riparian,2,high,162,high,1
+HOCU22,HOCU,Hopewell Culture,fallow field,1.5,low,2,low,0
+HOCU23,HOCU,Hopewell Culture,fallow field,0,low,245,low,0
+HOCU24,HOCU,Hopewell Culture,fallow field,1,low,10,low,0
+HOCU25,HOCU,Hopewell Culture,fallow field,1,low,15,low,0
+HOCU26,HOCU,Hopewell Culture,fallow field,2,medium,49,medium,0
+HOCU27,HOCU,Hopewell Culture,fallow field,1,low,264,low,0
+HOCU28,HOCU,Hopewell Culture,Unknown,NULL,Unknown,NULL,Unknown,0
+HOCU29,HOCU,Hopewell Culture,Unknown,NULL,Unknown,NULL,Unknown,0
+HOCU3,HOCU,Hopewell Culture,fallow field,1,low,99,low,0
+HOCU30,HOCU,Hopewell Culture,Unknown,NULL,Unknown,NULL,Unknown,0
+HOCU31,HOCU,Hopewell Culture,Unknown,NULL,Unknown,NULL,Unknown,0
+HOCU32,HOCU,Hopewell Culture,Unknown,NULL,Unknown,NULL,Unknown,0
+HOCU4,HOCU,Hopewell Culture,riparian,18,high,49,high,0
+HOCU5,HOCU,Hopewell Culture,fallow field,7,medium,302,medium,0
+HOCU6,HOCU,Hopewell Culture,fallow field,1,low,125,low,0
+HOCU7,HOCU,Hopewell Culture,fallow field,1,low,89,low,0
+HOCU8,HOCU,Hopewell Culture,fallow field,1.5,medium,88,medium,0
+HOCU9,HOCU,Hopewell Culture,fallow field,0,low,42,low,0
+HOME1,HOME,Homestead,Unknown,0,low,269,low,1
+HOME10,HOME,Homestead,Unknown,3,medium,303,medium,0
+HOME11,HOME,Homestead,Unknown,1,low,333,low,0
+HOME12,HOME,Homestead,Unknown,1,low,349,low,0
+HOME13,HOME,Homestead,Unknown,2,low,354,low,0
+HOME14,HOME,Homestead,Unknown,5,low,319,low,0
+HOME15,HOME,Homestead,Unknown,0.5,low,347,low,0
+HOME16,HOME,Homestead,Unknown,4,low,348,low,0
+HOME17,HOME,Homestead,Unknown,1,low,338,low,0
+HOME18,HOME,Homestead,Unknown,3,low,315,low,0
+HOME19,HOME,Homestead,Unknown,6,low,275,low,0
+HOME2,HOME,Homestead,Unknown,3,low,3,low,0
+HOME20,HOME,Homestead,Unknown,1,low,6,low,0
+HOME21,HOME,Homestead,Unknown,2,low,340,low,0
+HOME22,HOME,Homestead,Unknown,3,low,3,low,0
+HOME23,HOME,Homestead,Unknown,5,low,51,low,0
+HOME24,HOME,Homestead,Unknown,2,low,12,low,0
+HOME25,HOME,Homestead,Unknown,5,low,289,low,0
+HOME26,HOME,Homestead,Unknown,3,low,283,low,0
+HOME27,HOME,Homestead,Unknown,2,low,311,low,0
+HOME28,HOME,Homestead,Unknown,3,low,308,low,0
+HOME29,HOME,Homestead,Unknown,5,low,324,low,0
+HOME3,HOME,Homestead,Unknown,2,low,116,low,0
+HOME30,HOME,Homestead,Unknown,3,medium,279,medium,0
+HOME31,HOME,Homestead,Unknown,4,medium,316,medium,1
+HOME32,HOME,Homestead,Unknown,4,medium,93,medium,1
+HOME33,HOME,Homestead,Unknown,1,low,224,low,1
+HOME34,HOME,Homestead,Unknown,NULL,Unknown,NULL,Unknown,1
+HOME35,HOME,Homestead,Unknown,2,low,81,low,1
+HOME36,HOME,Homestead,Unknown,1.5,low,110,low,1
+HOME37,HOME,Homestead,Unknown,2,low,102,low,1
+HOME38,HOME,Homestead,Unknown,1,low,108,low,0
+HOME39,HOME,Homestead,Unknown,6,high,70,high,1
+HOME4,HOME,Homestead,Unknown,1,medium,267,medium,0
+HOME40,HOME,Homestead,Unknown,2,medium,52,medium,1
+HOME41,HOME,Homestead,Unknown,NULL,Unknown,NULL,Unknown,1
+HOME42,HOME,Homestead,Unknown,NULL,Unknown,NULL,Unknown,1
+HOME43,HOME,Homestead,Unknown,2,medium,92,medium,1
+HOME44,HOME,Homestead,Unknown,10,high,359,high,1
+HOME45,HOME,Homestead,Unknown,1,low,355,low,1
+HOME46,HOME,Homestead,Unknown,0.5,low,105,low,1
+HOME47,HOME,Homestead,Unknown,1,low,156,low,1
+HOME48,HOME,Homestead,Unknown,1,high,3,high,1
+HOME5,HOME,Homestead,Unknown,0.5,low,302,low,0
+HOME6,HOME,Homestead,Unknown,0,low,9,low,0
+HOME7,HOME,Homestead,Unknown,1,low,346,low,0
+HOME8,HOME,Homestead,Unknown,1,low,12,low,0
+HOME9,HOME,Homestead,Unknown,2,low,352,low,0
+LIBO1,LIBO,Lincoln Boyhood,woodland,4,low,232,low,0
+LIBO10,LIBO,Lincoln Boyhood,woodland,10,low,51,low,0
+LIBO13,LIBO,Lincoln Boyhood,woodland,6,medium,280,medium,0
+LIBO14,LIBO,Lincoln Boyhood,woodland,5,medium,252,low,0
+LIBO16,LIBO,Lincoln Boyhood,woodland,8,low,128,low,0
+LIBO17,LIBO,Lincoln Boyhood,woodland,2,low,282,low,0
+LIBO19,LIBO,Lincoln Boyhood,woodland,5,low,292,low,0
+LIBO2,LIBO,Lincoln Boyhood,woodland,5,low,273,low,0
+LIBO20,LIBO,Lincoln Boyhood,woodland,6,low,291,low,0
+LIBO22,LIBO,Lincoln Boyhood,woodland,5,low,30,low,0
+LIBO23,LIBO,Lincoln Boyhood,woodland,11,low,318,low,0
+LIBO24,LIBO,Lincoln Boyhood,woodland,4,medium,299,low,0
+LIBO26,LIBO,Lincoln Boyhood,woodland,13,low,264,low,0
+LIBO27,LIBO,Lincoln Boyhood,woodland,12,low,33,low,0
+LIBO28,LIBO,Lincoln Boyhood,woodland,10,low,299,low,0
+LIBO29,LIBO,Lincoln Boyhood,woodland,10,medium,245,low,0
+LIBO3,LIBO,Lincoln Boyhood,woodland,1,low,52,low,0
+LIBO30,LIBO,Lincoln Boyhood,woodland,10,low,223,low,0
+LIBO31,LIBO,Lincoln Boyhood,woodland,10,medium,40,low,0
+LIBO32,LIBO,Lincoln Boyhood,woodland,8,low,187,low,0
+LIBO33,LIBO,Lincoln Boyhood,woodland,7,medium,328,low,0
+LIBO34,LIBO,Lincoln Boyhood,woodland,8,low,303,low,0
+LIBO35,LIBO,Lincoln Boyhood,woodland,11,low,182,low,0
+LIBO36,LIBO,Lincoln Boyhood,woodland,4,low,305,low,0
+LIBO37,LIBO,Lincoln Boyhood,woodland,4,medium,272,low,0
+LIBO38,LIBO,Lincoln Boyhood,woodland,6,low,280,low,0
+LIBO39,LIBO,Lincoln Boyhood,woodland,10,low,298,low,0
+LIBO4,LIBO,Lincoln Boyhood,woodland,4,low,220,low,0
+LIBO40,LIBO,Lincoln Boyhood,woodland,5,low,45,low,0
+LIBO41,LIBO,Lincoln Boyhood,woodland,5,low,164,low,0
+LIBO5,LIBO,Lincoln Boyhood,woodland,2,low,13,low,0
+LIBO6,LIBO,Lincoln Boyhood,woodland,5,low,290,low,0
+LIBO7,LIBO,Lincoln Boyhood,woodland,7,low,310,low,0
+LIBO8,LIBO,Lincoln Boyhood,woodland,4,low,278,low,0
+LIBO9,LIBO,Lincoln Boyhood,woodland,10,low,28,low,0
+PERI1,PERI,Pea Ridge,Unknown,2,low,257,low,0
+PERI10,PERI,Pea Ridge,Unknown,14,high,97,low,0
+PERI100,PERI,Pea Ridge,Unknown,NULL,Unknown,0,Unknown,0
+PERI101,PERI,Pea Ridge,Unknown,NULL,Unknown,0,Unknown,0
+PERI11,PERI,Pea Ridge,Unknown,16,low,229,medium,0
+PERI12,PERI,Pea Ridge,Unknown,14,low,306,low,0
+PERI13,PERI,Pea Ridge,Unknown,10,high,3,high,0
+PERI14,PERI,Pea Ridge,Unknown,1,low,259,low,0
+PERI15,PERI,Pea Ridge,Unknown,4,low,223,low,0
+PERI16,PERI,Pea Ridge,Unknown,11,medium,62,medium,0
+PERI17,PERI,Pea Ridge,Unknown,2,low,349,medium,0
+PERI18,PERI,Pea Ridge,Unknown,3,low,243,Unknown,0
+PERI19,PERI,Pea Ridge,Unknown,9,high,329,Unknown,0
+PERI2,PERI,Pea Ridge,Unknown,7,low,63,low,0
+PERI20,PERI,Pea Ridge,Unknown,8,high,258,high,0
+PERI21,PERI,Pea Ridge,Unknown,1,low,261,low,0
+PERI22,PERI,Pea Ridge,Unknown,6,low,292,low,0
+PERI23,PERI,Pea Ridge,Unknown,1,low,180,low,0
+PERI24,PERI,Pea Ridge,Unknown,6,low,178,low,0
+PERI25,PERI,Pea Ridge,Unknown,7,medium,234,low,0
+PERI26,PERI,Pea Ridge,Unknown,11,high,9,low,0
+PERI27,PERI,Pea Ridge,Unknown,5,low,94,medium,0
+PERI28,PERI,Pea Ridge,Unknown,14,high,312,high,0
+PERI29,PERI,Pea Ridge,Unknown,7,high,256,high,0
+PERI3,PERI,Pea Ridge,Unknown,5,low,226,low,0
+PERI30,PERI,Pea Ridge,Unknown,1,low,195,low,0
+PERI31,PERI,Pea Ridge,Unknown,5,low,224,low,0
+PERI32,PERI,Pea Ridge,Unknown,6,low,133,low,0
+PERI33,PERI,Pea Ridge,Unknown,7,low,148,low,0
+PERI34,PERI,Pea Ridge,Unknown,5,low,156,low,0
+PERI35,PERI,Pea Ridge,Unknown,2,medium,217,low,0
+PERI36,PERI,Pea Ridge,Unknown,2,low,35,low,0
+PERI37,PERI,Pea Ridge,Unknown,9,high,344,high,0
+PERI38,PERI,Pea Ridge,Unknown,2,low,29,low,0
+PERI39,PERI,Pea Ridge,Unknown,22,medium,318,high,0
+PERI4,PERI,Pea Ridge,Unknown,17,high,280,low,0
+PERI40,PERI,Pea Ridge,Unknown,1,low,259,low,0
+PERI41,PERI,Pea Ridge,Unknown,3,low,238,low,0
+PERI42,PERI,Pea Ridge,Unknown,1,low,187,low,0
+PERI43,PERI,Pea Ridge,Unknown,1,low,159,low,0
+PERI44,PERI,Pea Ridge,Unknown,4,low,190,low,0
+PERI45,PERI,Pea Ridge,Unknown,7,low,198,low,0
+PERI46,PERI,Pea Ridge,Unknown,10,medium,63,low,0
+PERI47,PERI,Pea Ridge,Unknown,16,low,70,medium,0
+PERI48,PERI,Pea Ridge,Unknown,12,low,19,medium,0
+PERI49,PERI,Pea Ridge,Unknown,1,low,27,low,0
+PERI5,PERI,Pea Ridge,Unknown,2,low,300,low,0
+PERI50,PERI,Pea Ridge,Unknown,1,low,292,low,0
+PERI51,PERI,Pea Ridge,Unknown,3,low,357,low,0
+PERI52,PERI,Pea Ridge,Unknown,3,medium,136,medium,1
+PERI53,PERI,Pea Ridge,Unknown,1,low,208,low,1
+PERI54,PERI,Pea Ridge,Unknown,2,low,249,high,0
+PERI55,PERI,Pea Ridge,Unknown,14,high,180,low,0
+PERI56,PERI,Pea Ridge,Unknown,7,high,304,low,0
+PERI57,PERI,Pea Ridge,Unknown,13,high,194,low,0
+PERI58,PERI,Pea Ridge,Unknown,14,medium,358,high,0
+PERI59,PERI,Pea Ridge,Unknown,1,low,138,low,0
+PERI6,PERI,Pea Ridge,Unknown,7,low,263,low,0
+PERI60,PERI,Pea Ridge,Unknown,2,low,248,low,0
+PERI61,PERI,Pea Ridge,Unknown,4,low,165,low,0
+PERI62,PERI,Pea Ridge,Unknown,3,low,342,low,0
+PERI63,PERI,Pea Ridge,Unknown,3,low,352,low,0
+PERI64,PERI,Pea Ridge,Unknown,2,low,184,low,0
+PERI65,PERI,Pea Ridge,Unknown,3,low,254,low,0
+PERI66,PERI,Pea Ridge,Unknown,3,medium,96,medium,0
+PERI67,PERI,Pea Ridge,Unknown,2,low,241,low,0
+PERI68,PERI,Pea Ridge,Unknown,0,low,196,low,0
+PERI69,PERI,Pea Ridge,Unknown,1,low,337,low,0
+PERI7,PERI,Pea Ridge,Unknown,6,low,54,low,0
+PERI70,PERI,Pea Ridge,Unknown,3,low,219,low,0
+PERI71,PERI,Pea Ridge,Unknown,2,low,283,low,0
+PERI72,PERI,Pea Ridge,Unknown,2,medium,9,low,0
+PERI73,PERI,Pea Ridge,Unknown,2,low,108,low,0
+PERI74,PERI,Pea Ridge,Unknown,1,medium,292,medium,0
+PERI75,PERI,Pea Ridge,Unknown,1,low,286,low,0
+PERI76,PERI,Pea Ridge,Unknown,3,medium,166,low,0
+PERI77,PERI,Pea Ridge,Unknown,2,low,217,low,0
+PERI78,PERI,Pea Ridge,Unknown,0,low,304,low,0
+PERI79,PERI,Pea Ridge,Unknown,2,low,284,low,0
+PERI8,PERI,Pea Ridge,Unknown,7,low,297,low,0
+PERI80,PERI,Pea Ridge,Unknown,1,low,228,low,0
+PERI81,PERI,Pea Ridge,Unknown,5,high,333,high,0
+PERI82,PERI,Pea Ridge,Unknown,2,low,264,low,0
+PERI83,PERI,Pea Ridge,Unknown,2,low,117,low,0
+PERI84,PERI,Pea Ridge,Unknown,1,low,282,low,0
+PERI85,PERI,Pea Ridge,Unknown,3,medium,208,high,0
+PERI86,PERI,Pea Ridge,Unknown,1,low,248,low,0
+PERI87,PERI,Pea Ridge,Unknown,1,low,264,low,0
+PERI88,PERI,Pea Ridge,Unknown,2,low,140,low,0
+PERI89,PERI,Pea Ridge,Unknown,1,low,278,low,0
+PERI9,PERI,Pea Ridge,Unknown,7,medium,69,low,0
+PERI90,PERI,Pea Ridge,Unknown,1,low,142,low,0
+PERI91,PERI,Pea Ridge,Unknown,2,low,317,low,0
+PERI92,PERI,Pea Ridge,Unknown,1,low,337,low,0
+PERI93,PERI,Pea Ridge,Unknown,6,medium,120,high,0
+PERI94,PERI,Pea Ridge,Unknown,7,high,200,high,0
+PERI95,PERI,Pea Ridge,Unknown,2,low,209,low,0
+PERI96,PERI,Pea Ridge,Unknown,1,medium,224,low,0
+PERI97,PERI,Pea Ridge,Unknown,6,high,150,high,0
+PERI98,PERI,Pea Ridge,Unknown,1,medium,2,medium,0
+PERI99,PERI,Pea Ridge,Unknown,2,high,183,high,0
+PIPE1,PIPE,Pipestone,Unknown,2,low,268,low,0
+PIPE10,PIPE,Pipestone,Unknown,1,low,33,low,0
+PIPE11,PIPE,Pipestone,Unknown,3,medium,208,medium,1
+PIPE12,PIPE,Pipestone,Unknown,1,low,324,low,1
+PIPE13,PIPE,Pipestone,Unknown,5,low,263,low,0
+PIPE14,PIPE,Pipestone,Unknown,3,low,274,low,0
+PIPE15,PIPE,Pipestone,Unknown,2,low,258,low,0
+PIPE16,PIPE,Pipestone,Unknown,3,low,19,low,0
+PIPE17,PIPE,Pipestone,Unknown,3,low,14,low,0
+PIPE18,PIPE,Pipestone,Unknown,3,medium,332,medium,0
+PIPE19,PIPE,Pipestone,Unknown,6,low,244,low,0
+PIPE2,PIPE,Pipestone,Unknown,2,low,256,low,0
+PIPE20,PIPE,Pipestone,Unknown,1,low,234,low,0
+PIPE21,PIPE,Pipestone,Unknown,2,low,219,low,1
+PIPE22,PIPE,Pipestone,Unknown,1,high,217,high,1
+PIPE23,PIPE,Pipestone,Unknown,3,low,34,low,0
+PIPE24,PIPE,Pipestone,Unknown,1,medium,57,low,0
+PIPE25,PIPE,Pipestone,Unknown,2,medium,349,medium,1
+PIPE26,PIPE,Pipestone,Unknown,1,low,203,low,1
+PIPE27,PIPE,Pipestone,Unknown,2,low,198,low,1
+PIPE28,PIPE,Pipestone,Unknown,11,medium,260,medium,1
+PIPE29,PIPE,Pipestone,Unknown,3,low,1,low,1
+PIPE3,PIPE,Pipestone,Unknown,3,medium,261,medium,0
+PIPE30,PIPE,Pipestone,Unknown,2,low,210,low,0
+PIPE31,PIPE,Pipestone,Unknown,2,low,56,low,0
+PIPE32,PIPE,Pipestone,Unknown,3,low,306,low,0
+PIPE33,PIPE,Pipestone,Unknown,2,low,238,low,1
+PIPE34,PIPE,Pipestone,Unknown,3,low,299,low,1
+PIPE35,PIPE,Pipestone,Unknown,1,low,290,low,0
+PIPE36,PIPE,Pipestone,Unknown,1,low,82,low,0
+PIPE37,PIPE,Pipestone,Unknown,1,low,30,low,0
+PIPE38,PIPE,Pipestone,Unknown,0,low,4,low,0
+PIPE39,PIPE,Pipestone,Unknown,3,low,317,low,1
+PIPE4,PIPE,Pipestone,Unknown,3,low,170,low,0
+PIPE40,PIPE,Pipestone,Unknown,3,medium,269,medium,0
+PIPE41,PIPE,Pipestone,Unknown,2,medium,302,medium,0
+PIPE42,PIPE,Pipestone,Unknown,3,low,42,low,0
+PIPE43,PIPE,Pipestone,Unknown,1,low,63,low,0
+PIPE44,PIPE,Pipestone,Unknown,2,low,284,low,0
+PIPE45,PIPE,Pipestone,Unknown,4,low,264,low,0
+PIPE46,PIPE,Pipestone,Unknown,2,low,19,low,0
+PIPE47,PIPE,Pipestone,Unknown,3,low,33,low,0
+PIPE48,PIPE,Pipestone,Unknown,2,low,65,low,0
+PIPE49,PIPE,Pipestone,Unknown,3,high,197,medium,0
+PIPE5,PIPE,Pipestone,Unknown,2,low,248,low,0
+PIPE50,PIPE,Pipestone,Unknown,3,low,230,low,0
+PIPE51,PIPE,Pipestone,Unknown,1,low,101,low,0
+PIPE52,PIPE,Pipestone,Unknown,2,low,70,low,0
+PIPE53,PIPE,Pipestone,Unknown,1,medium,238,medium,0
+PIPE54,PIPE,Pipestone,Unknown,2,low,12,low,0
+PIPE55,PIPE,Pipestone,Unknown,1,low,93,low,0
+PIPE56,PIPE,Pipestone,Unknown,2,low,77,low,0
+PIPE57,PIPE,Pipestone,Unknown,2,low,100,low,0
+PIPE58,PIPE,Pipestone,Unknown,12,medium,267,medium,0
+PIPE59,PIPE,Pipestone,Unknown,2,low,275,low,0
+PIPE6,PIPE,Pipestone,Unknown,3,medium,194,medium,0
+PIPE60,PIPE,Pipestone,Unknown,3,Unknown,83,low,0
+PIPE61,PIPE,Pipestone,Unknown,2,low,82,low,0
+PIPE62,PIPE,Pipestone,Unknown,2,low,209,low,0
+PIPE63,PIPE,Pipestone,Unknown,2,medium,342,medium,0
+PIPE64,PIPE,Pipestone,Unknown,3,low,101,low,0
+PIPE65,PIPE,Pipestone,Unknown,1,low,86,low,0
+PIPE66,PIPE,Pipestone,Unknown,2,low,261,low,0
+PIPE67,PIPE,Pipestone,Unknown,2,low,84,low,0
+PIPE68,PIPE,Pipestone,Unknown,1,low,93,low,0
+PIPE7,PIPE,Pipestone,Unknown,4,low,257,low,0
+PIPE8,PIPE,Pipestone,Unknown,1,low,266,low,0
+PIPE9,PIPE,Pipestone,Unknown,12,high,282,high,0
+TAPR1,TAPR,Tallgrass Prairie,prairie,2,medium,226,medium,0
+TAPR10,TAPR,Tallgrass Prairie,prairie,3,low,245,low,0
+TAPR100,TAPR,Tallgrass Prairie,prairie,2,high,107,high,0
+TAPR101,TAPR,Tallgrass Prairie,prairie,1,low,126,low,0
+TAPR102,TAPR,Tallgrass Prairie,prairie,1,low,57,low,0
+TAPR103,TAPR,Tallgrass Prairie,prairie,1,low,61,low,0
+TAPR104,TAPR,Tallgrass Prairie,prairie,5,medium,257,high,0
+TAPR105,TAPR,Tallgrass Prairie,prairie,11,high,195,medium,0
+TAPR106,TAPR,Tallgrass Prairie,prairie,3,low,216,low,0
+TAPR107,TAPR,Tallgrass Prairie,prairie,3,medium,35,medium,0
+TAPR108,TAPR,Tallgrass Prairie,prairie,4,high,164,high,0
+TAPR109,TAPR,Tallgrass Prairie,prairie,4,high,122,high,0
+TAPR11,TAPR,Tallgrass Prairie,prairie,5,low,150,low,0
+TAPR110,TAPR,Tallgrass Prairie,prairie,3,low,59,low,0
+TAPR111,TAPR,Tallgrass Prairie,prairie,10,high,285,high,0
+TAPR112,TAPR,Tallgrass Prairie,prairie,8,high,220,high,0
+TAPR113,TAPR,Tallgrass Prairie,prairie,3,low,41,low,0
+TAPR114,TAPR,Tallgrass Prairie,prairie,0,low,0,low,0
+TAPR115,TAPR,Tallgrass Prairie,prairie,2,high,104,high,0
+TAPR116,TAPR,Tallgrass Prairie,prairie,5,medium,114,low,0
+TAPR117,TAPR,Tallgrass Prairie,prairie,4,low,227,low,0
+TAPR118,TAPR,Tallgrass Prairie,prairie,5,low,115,low,0
+TAPR119,TAPR,Tallgrass Prairie,prairie,1,low,25,low,0
+TAPR12,TAPR,Tallgrass Prairie,prairie,4,low,50,low,0
+TAPR120,TAPR,Tallgrass Prairie,prairie,2,low,60,low,0
+TAPR121,TAPR,Tallgrass Prairie,prairie,3,low,22,low,0
+TAPR122,TAPR,Tallgrass Prairie,prairie,2,low,69,low,0
+TAPR123,TAPR,Tallgrass Prairie,prairie,8,medium,320,medium,0
+TAPR124,TAPR,Tallgrass Prairie,prairie,8,low,1,low,0
+TAPR125,TAPR,Tallgrass Prairie,prairie,13,high,259,high,0
+TAPR126,TAPR,Tallgrass Prairie,prairie,3,high,241,high,0
+TAPR127,TAPR,Tallgrass Prairie,prairie,5,low,101,low,0
+TAPR128,TAPR,Tallgrass Prairie,prairie,2,low,130,low,0
+TAPR129,TAPR,Tallgrass Prairie,prairie,6,high,40,low,0
+TAPR13,TAPR,Tallgrass Prairie,prairie,1,low,354,low,0
+TAPR130,TAPR,Tallgrass Prairie,prairie,0,medium,225,high,0
+TAPR131,TAPR,Tallgrass Prairie,prairie,1,low,135,high,0
+TAPR132,TAPR,Tallgrass Prairie,prairie,7,low,205,low,0
+TAPR133,TAPR,Tallgrass Prairie,prairie,2,low,201,low,0
+TAPR134,TAPR,Tallgrass Prairie,prairie,4,low,326,low,0
+TAPR135,TAPR,Tallgrass Prairie,prairie,4,medium,124,low,0
+TAPR136,TAPR,Tallgrass Prairie,prairie,5,high,275,high,0
+TAPR137,TAPR,Tallgrass Prairie,prairie,7,low,140,medium,0
+TAPR138,TAPR,Tallgrass Prairie,prairie,9,high,75,high,0
+TAPR139,TAPR,Tallgrass Prairie,prairie,5,high,358,high,0
+TAPR14,TAPR,Tallgrass Prairie,prairie,8,low,343,low,0
+TAPR140,TAPR,Tallgrass Prairie,prairie,3,low,171,low,0
+TAPR141,TAPR,Tallgrass Prairie,prairie,3,high,197,high,0
+TAPR142,TAPR,Tallgrass Prairie,prairie,2,low,109,medium,0
+TAPR143,TAPR,Tallgrass Prairie,prairie,3,low,355,low,0
+TAPR144,TAPR,Tallgrass Prairie,prairie,4,low,125,low,0
+TAPR145,TAPR,Tallgrass Prairie,prairie,7,medium,120,high,0
+TAPR146,TAPR,Tallgrass Prairie,prairie,4,medium,58,low,0
+TAPR147,TAPR,Tallgrass Prairie,prairie,3,low,149,low,0
+TAPR148,TAPR,Tallgrass Prairie,prairie,0,medium,94,medium,0
+TAPR149,TAPR,Tallgrass Prairie,prairie,5,high,355,high,0
+TAPR15,TAPR,Tallgrass Prairie,prairie,5,high,42,high,0
+TAPR150,TAPR,Tallgrass Prairie,prairie,3,high,253,medium,0
+TAPR151,TAPR,Tallgrass Prairie,prairie,1,low,41,low,0
+TAPR152,TAPR,Tallgrass Prairie,prairie,8,high,232,high,0
+TAPR153,TAPR,Tallgrass Prairie,prairie,3,medium,133,high,0
+TAPR154,TAPR,Tallgrass Prairie,prairie,5,medium,13,low,0
+TAPR155,TAPR,Tallgrass Prairie,prairie,1,medium,193,medium,0
+TAPR156,TAPR,Tallgrass Prairie,prairie,1,low,316,low,0
+TAPR157,TAPR,Tallgrass Prairie,prairie,1,high,311,high,0
+TAPR158,TAPR,Tallgrass Prairie,prairie,4,low,64,low,0
+TAPR159,TAPR,Tallgrass Prairie,riparian,1,low,131,low,1
+TAPR16,TAPR,Tallgrass Prairie,prairie,7,medium,171,medium,0
+TAPR160,TAPR,Tallgrass Prairie,riparian,24,high,345,high,1
+TAPR161,TAPR,Tallgrass Prairie,riparian,2,medium,354,medium,1
+TAPR162,TAPR,Tallgrass Prairie,riparian,2,low,18,low,1
+TAPR163,TAPR,Tallgrass Prairie,riparian,0,low,115,low,1
+TAPR164,TAPR,Tallgrass Prairie,riparian,0,low,64,low,1
+TAPR165,TAPR,Tallgrass Prairie,riparian,3,low,82,low,1
+TAPR166,TAPR,Tallgrass Prairie,riparian,1,medium,247,low,1
+TAPR167,TAPR,Tallgrass Prairie,riparian,2,medium,127,low,1
+TAPR168,TAPR,Tallgrass Prairie,riparian,1,medium,164,low,1
+TAPR169,TAPR,Tallgrass Prairie,riparian,3,medium,84,low,1
+TAPR17,TAPR,Tallgrass Prairie,prairie,0,low,251,medium,0
+TAPR170,TAPR,Tallgrass Prairie,riparian,2,medium,116,low,1
+TAPR171,TAPR,Tallgrass Prairie,riparian,1,medium,31,low,1
+TAPR172,TAPR,Tallgrass Prairie,riparian,2,low,112,low,1
+TAPR173,TAPR,Tallgrass Prairie,riparian,5,low,33,low,1
+TAPR174,TAPR,Tallgrass Prairie,riparian,1,low,75,low,1
+TAPR175,TAPR,Tallgrass Prairie,riparian,10,low,70,low,1
+TAPR176,TAPR,Tallgrass Prairie,riparian,2,low,149,low,1
+TAPR177,TAPR,Tallgrass Prairie,prairie,1,medium,205,medium,0
+TAPR178,TAPR,Tallgrass Prairie,prairie,2,low,241,low,0
+TAPR179,TAPR,Tallgrass Prairie,prairie,8,medium,52,medium,0
+TAPR18,TAPR,Tallgrass Prairie,prairie,9,high,8,high,0
+TAPR180,TAPR,Tallgrass Prairie,prairie,1,low,212,low,0
+TAPR181,TAPR,Tallgrass Prairie,prairie,9,low,192,low,0
+TAPR182,TAPR,Tallgrass Prairie,prairie,2,low,155,low,0
+TAPR183,TAPR,Tallgrass Prairie,prairie,4,medium,115,medium,0
+TAPR184,TAPR,Tallgrass Prairie,prairie,5,low,35,low,0
+TAPR185,TAPR,Tallgrass Prairie,prairie,5,high,30,high,0
+TAPR186,TAPR,Tallgrass Prairie,prairie,2,low,234,low,0
+TAPR187,TAPR,Tallgrass Prairie,prairie,8,high,205,high,0
+TAPR188,TAPR,Tallgrass Prairie,prairie,2,low,170,low,0
+TAPR189,TAPR,Tallgrass Prairie,prairie,5,low,241,low,0
+TAPR19,TAPR,Tallgrass Prairie,prairie,6,medium,360,low,0
+TAPR190,TAPR,Tallgrass Prairie,prairie,2,low,233,medium,0
+TAPR191,TAPR,Tallgrass Prairie,prairie,4,medium,140,medium,0
+TAPR192,TAPR,Tallgrass Prairie,prairie,6,low,156,low,0
+TAPR193,TAPR,Tallgrass Prairie,prairie,8,high,292,high,0
+TAPR194,TAPR,Tallgrass Prairie,prairie,2,low,199,low,0
+TAPR195,TAPR,Tallgrass Prairie,prairie,2,medium,349,medium,0
+TAPR196,TAPR,Tallgrass Prairie,prairie,3,low,83,medium,0
+TAPR197,TAPR,Tallgrass Prairie,prairie,2,low,290,low,0
+TAPR198,TAPR,Tallgrass Prairie,prairie,11,medium,250,low,0
+TAPR199,TAPR,Tallgrass Prairie,prairie,2,low,62,low,0
+TAPR2,TAPR,Tallgrass Prairie,prairie,8,medium,318,medium,0
+TAPR20,TAPR,Tallgrass Prairie,prairie,5,medium,322,high,0
+TAPR200,TAPR,Tallgrass Prairie,prairie,7,high,355,high,0
+TAPR201,TAPR,Tallgrass Prairie,prairie,2,high,282,medium,0
+TAPR202,TAPR,Tallgrass Prairie,prairie,3,low,274,low,0
+TAPR203,TAPR,Tallgrass Prairie,prairie,13,high,283,low,0
+TAPR204,TAPR,Tallgrass Prairie,prairie,4,medium,101,medium,0
+TAPR205,TAPR,Tallgrass Prairie,prairie,2,high,185,high,0
+TAPR206,TAPR,Tallgrass Prairie,prairie,2,low,105,low,0
+TAPR207,TAPR,Tallgrass Prairie,prairie,4,low,225,medium,0
+TAPR208,TAPR,Tallgrass Prairie,prairie,5,medium,80,medium,0
+TAPR209,TAPR,Tallgrass Prairie,prairie,5,medium,330,medium,0
+TAPR21,TAPR,Tallgrass Prairie,prairie,1,low,98,low,0
+TAPR210,TAPR,Tallgrass Prairie,prairie,5,low,45,low,0
+TAPR211,TAPR,Tallgrass Prairie,prairie,4,medium,80,low,0
+TAPR212,TAPR,Tallgrass Prairie,prairie,9,high,222,medium,0
+TAPR213,TAPR,Tallgrass Prairie,prairie,3,low,245,low,0
+TAPR214,TAPR,Tallgrass Prairie,prairie,7,low,132,low,0
+TAPR215,TAPR,Tallgrass Prairie,prairie,7,high,240,high,0
+TAPR216,TAPR,Tallgrass Prairie,prairie,4,high,178,high,0
+TAPR217,TAPR,Tallgrass Prairie,prairie,4,low,69,low,0
+TAPR218,TAPR,Tallgrass Prairie,prairie,3,high,295,high,0
+TAPR219,TAPR,Tallgrass Prairie,prairie,1,low,218,low,0
+TAPR22,TAPR,Tallgrass Prairie,prairie,2,low,90,low,0
+TAPR220,TAPR,Tallgrass Prairie,prairie,6,medium,210,low,0
+TAPR221,TAPR,Tallgrass Prairie,prairie,1,low,209,low,0
+TAPR222,TAPR,Tallgrass Prairie,prairie,5,medium,132,medium,0
+TAPR223,TAPR,Tallgrass Prairie,prairie,2,low,169,low,0
+TAPR224,TAPR,Tallgrass Prairie,prairie,8,medium,55,low,0
+TAPR225,TAPR,Tallgrass Prairie,prairie,1,low,55,low,0
+TAPR226,TAPR,Tallgrass Prairie,prairie,2,high,40,high,0
+TAPR227,TAPR,Tallgrass Prairie,prairie,5,medium,256,medium,0
+TAPR228,TAPR,Tallgrass Prairie,prairie,10,high,240,high,0
+TAPR229,TAPR,Tallgrass Prairie,prairie,4,low,132,low,0
+TAPR23,TAPR,Tallgrass Prairie,prairie,2,high,127,high,0
+TAPR230,TAPR,Tallgrass Prairie,prairie,13,high,290,high,0
+TAPR231,TAPR,Tallgrass Prairie,prairie,2,low,113,low,0
+TAPR232,TAPR,Tallgrass Prairie,prairie,0,medium,55,medium,0
+TAPR233,TAPR,Tallgrass Prairie,prairie,7,high,298,high,0
+TAPR234,TAPR,Tallgrass Prairie,prairie,1,low,43,low,0
+TAPR235,TAPR,Tallgrass Prairie,prairie,5,high,115,medium,0
+TAPR236,TAPR,Tallgrass Prairie,prairie,8,medium,218,high,0
+TAPR237,TAPR,Tallgrass Prairie,prairie,8,high,140,low,0
+TAPR238,TAPR,Tallgrass Prairie,prairie,6,low,40,low,0
+TAPR239,TAPR,Tallgrass Prairie,prairie,8,medium,106,medium,0
+TAPR24,TAPR,Tallgrass Prairie,prairie,11,low,334,low,0
+TAPR240,TAPR,Tallgrass Prairie,prairie,5,medium,136,medium,0
+TAPR241,TAPR,Tallgrass Prairie,prairie,3,high,140,high,0
+TAPR242,TAPR,Tallgrass Prairie,prairie,1,low,150,medium,0
+TAPR243,TAPR,Tallgrass Prairie,prairie,3,low,222,low,0
+TAPR244,TAPR,Tallgrass Prairie,prairie,2,medium,144,medium,0
+TAPR245,TAPR,Tallgrass Prairie,prairie,3,medium,185,medium,0
+TAPR246,TAPR,Tallgrass Prairie,prairie,1,medium,196,low,0
+TAPR247,TAPR,Tallgrass Prairie,prairie,2,low,21,low,0
+TAPR248,TAPR,Tallgrass Prairie,prairie,4,medium,202,medium,0
+TAPR249,TAPR,Tallgrass Prairie,prairie,3,low,180,low,0
+TAPR25,TAPR,Tallgrass Prairie,prairie,6,high,178,high,0
+TAPR250,TAPR,Tallgrass Prairie,prairie,3,high,135,high,0
+TAPR251,TAPR,Tallgrass Prairie,prairie,12,medium,358,medium,0
+TAPR252,TAPR,Tallgrass Prairie,prairie,4,medium,301,medium,0
+TAPR253,TAPR,Tallgrass Prairie,prairie,6,medium,221,low,0
+TAPR254,TAPR,Tallgrass Prairie,prairie,0,low,248,low,0
+TAPR255,TAPR,Tallgrass Prairie,prairie,12,high,238,high,0
+TAPR256,TAPR,Tallgrass Prairie,prairie,5,low,142,low,0
+TAPR257,TAPR,Tallgrass Prairie,prairie,1,low,136,low,0
+TAPR258,TAPR,Tallgrass Prairie,prairie,7,high,116,high,0
+TAPR259,TAPR,Tallgrass Prairie,prairie,4,high,193,medium,0
+TAPR26,TAPR,Tallgrass Prairie,prairie,3,medium,135,high,0
+TAPR260,TAPR,Tallgrass Prairie,prairie,4,medium,231,low,0
+TAPR27,TAPR,Tallgrass Prairie,prairie,8,low,213,low,0
+TAPR28,TAPR,Tallgrass Prairie,prairie,5,low,69,low,0
+TAPR29,TAPR,Tallgrass Prairie,prairie,2,high,93,high,0
+TAPR3,TAPR,Tallgrass Prairie,prairie,4,medium,33,low,0
+TAPR30,TAPR,Tallgrass Prairie,prairie,5,low,136,low,0
+TAPR31,TAPR,Tallgrass Prairie,prairie,4,medium,236,medium,0
+TAPR32,TAPR,Tallgrass Prairie,prairie,4,low,183,low,0
+TAPR33,TAPR,Tallgrass Prairie,prairie,8,low,50,medium,0
+TAPR34,TAPR,Tallgrass Prairie,prairie,2,low,200,low,0
+TAPR35,TAPR,Tallgrass Prairie,prairie,3,low,227,low,0
+TAPR36,TAPR,Tallgrass Prairie,prairie,0,high,295,high,0
+TAPR37,TAPR,Tallgrass Prairie,prairie,4,high,22,high,0
+TAPR38,TAPR,Tallgrass Prairie,prairie,8,medium,322,medium,0
+TAPR39,TAPR,Tallgrass Prairie,prairie,3,low,156,low,0
+TAPR4,TAPR,Tallgrass Prairie,prairie,9,low,105,low,0
+TAPR40,TAPR,Tallgrass Prairie,prairie,4,high,19,high,0
+TAPR41,TAPR,Tallgrass Prairie,prairie,3,low,6,medium,0
+TAPR42,TAPR,Tallgrass Prairie,prairie,7,medium,52,low,0
+TAPR43,TAPR,Tallgrass Prairie,prairie,6,low,25,medium,0
+TAPR44,TAPR,Tallgrass Prairie,prairie,6,medium,167,low,0
+TAPR45,TAPR,Tallgrass Prairie,prairie,4,medium,144,high,0
+TAPR46,TAPR,Tallgrass Prairie,prairie,2,low,182,low,0
+TAPR47,TAPR,Tallgrass Prairie,prairie,4,medium,37,high,0
+TAPR48,TAPR,Tallgrass Prairie,prairie,5,high,200,high,0
+TAPR49,TAPR,Tallgrass Prairie,prairie,2,high,333,high,0
+TAPR5,TAPR,Tallgrass Prairie,prairie,6,high,100,high,0
+TAPR50,TAPR,Tallgrass Prairie,prairie,4,low,123,low,0
+TAPR51,TAPR,Tallgrass Prairie,prairie,8,high,141,low,0
+TAPR52,TAPR,Tallgrass Prairie,prairie,8,medium,25,medium,0
+TAPR53,TAPR,Tallgrass Prairie,prairie,2,low,67,low,0
+TAPR54,TAPR,Tallgrass Prairie,prairie,2,medium,200,medium,0
+TAPR55,TAPR,Tallgrass Prairie,prairie,2,low,22,low,0
+TAPR56,TAPR,Tallgrass Prairie,prairie,3,low,125,low,0
+TAPR57,TAPR,Tallgrass Prairie,prairie,2,low,154,medium,0
+TAPR58,TAPR,Tallgrass Prairie,prairie,12,low,35,low,0
+TAPR59,TAPR,Tallgrass Prairie,prairie,6,medium,190,high,0
+TAPR6,TAPR,Tallgrass Prairie,prairie,6,medium,351,low,0
+TAPR60,TAPR,Tallgrass Prairie,prairie,1,low,193,low,0
+TAPR61,TAPR,Tallgrass Prairie,prairie,2,low,243,low,0
+TAPR62,TAPR,Tallgrass Prairie,prairie,3,low,56,low,0
+TAPR63,TAPR,Tallgrass Prairie,prairie,8,low,71,low,0
+TAPR64,TAPR,Tallgrass Prairie,prairie,3,high,209,high,0
+TAPR65,TAPR,Tallgrass Prairie,prairie,2,low,60,low,0
+TAPR66,TAPR,Tallgrass Prairie,prairie,9,medium,128,medium,0
+TAPR67,TAPR,Tallgrass Prairie,prairie,2,low,150,low,0
+TAPR68,TAPR,Tallgrass Prairie,prairie,1,low,192,low,0
+TAPR69,TAPR,Tallgrass Prairie,prairie,5,low,129,low,0
+TAPR7,TAPR,Tallgrass Prairie,prairie,3,medium,96,medium,0
+TAPR70,TAPR,Tallgrass Prairie,prairie,3,medium,101,high,0
+TAPR71,TAPR,Tallgrass Prairie,prairie,2,low,253,low,0
+TAPR72,TAPR,Tallgrass Prairie,prairie,7,high,49,low,0
+TAPR73,TAPR,Tallgrass Prairie,prairie,10,high,260,high,0
+TAPR74,TAPR,Tallgrass Prairie,prairie,12,medium,100,low,0
+TAPR75,TAPR,Tallgrass Prairie,prairie,2,low,195,low,0
+TAPR76,TAPR,Tallgrass Prairie,prairie,4,low,29,low,0
+TAPR77,TAPR,Tallgrass Prairie,prairie,4,low,295,low,0
+TAPR78,TAPR,Tallgrass Prairie,prairie,11,high,329,high,0
+TAPR79,TAPR,Tallgrass Prairie,prairie,7,high,63,high,0
+TAPR8,TAPR,Tallgrass Prairie,prairie,4,low,279,low,0
+TAPR80,TAPR,Tallgrass Prairie,prairie,4,low,215,low,0
+TAPR81,TAPR,Tallgrass Prairie,prairie,2,low,31,low,0
+TAPR82,TAPR,Tallgrass Prairie,prairie,5,low,255,medium,0
+TAPR83,TAPR,Tallgrass Prairie,prairie,1,low,57,low,0
+TAPR84,TAPR,Tallgrass Prairie,prairie,9,high,230,high,0
+TAPR85,TAPR,Tallgrass Prairie,prairie,1,low,73,low,0
+TAPR86,TAPR,Tallgrass Prairie,prairie,4,medium,175,medium,0
+TAPR87,TAPR,Tallgrass Prairie,prairie,3,low,52,low,0
+TAPR88,TAPR,Tallgrass Prairie,prairie,7,high,190,medium,0
+TAPR89,TAPR,Tallgrass Prairie,prairie,2,high,204,high,0
+TAPR9,TAPR,Tallgrass Prairie,prairie,4,low,95,low,0
+TAPR90,TAPR,Tallgrass Prairie,prairie,3,medium,159,high,0
+TAPR91,TAPR,Tallgrass Prairie,prairie,2,high,122,medium,0
+TAPR92,TAPR,Tallgrass Prairie,prairie,1,low,326,medium,0
+TAPR93,TAPR,Tallgrass Prairie,prairie,2,medium,155,low,0
+TAPR94,TAPR,Tallgrass Prairie,prairie,8,high,218,high,0
+TAPR95,TAPR,Tallgrass Prairie,prairie,3,medium,138,medium,0
+TAPR96,TAPR,Tallgrass Prairie,prairie,4,high,43,high,0
+TAPR97,TAPR,Tallgrass Prairie,prairie,2,high,169,high,0
+TAPR98,TAPR,Tallgrass Prairie,prairie,2,low,35,medium,0
+TAPR99,TAPR,Tallgrass Prairie,prairie,0,high,211,high,0
+WICR1,WICR,Wilson's Creek,Unknown,5,medium,203,low,0
+WICR10,WICR,Wilson's Creek,Unknown,6,low,54,low,0
+WICR11,WICR,Wilson's Creek,Unknown,2,low,239,low,0
+WICR12,WICR,Wilson's Creek,Unknown,8,low,10,low,0
+WICR13,WICR,Wilson's Creek,Unknown,NULL,Unknown,0,Unknown,0
+WICR14,WICR,Wilson's Creek,Unknown,3,low,226,low,0
+WICR15,WICR,Wilson's Creek,Unknown,5,low,45,low,0
+WICR16,WICR,Wilson's Creek,Unknown,3,low,290,low,0
+WICR17,WICR,Wilson's Creek,Unknown,5,low,102,low,0
+WICR18,WICR,Wilson's Creek,Unknown,2,low,216,medium,0
+WICR19,WICR,Wilson's Creek,Unknown,6,low,305,low,0
+WICR2,WICR,Wilson's Creek,Unknown,4,low,194,low,0
+WICR20,WICR,Wilson's Creek,Unknown,5,low,112,low,0
+WICR21,WICR,Wilson's Creek,Unknown,5,medium,294,medium,0
+WICR22,WICR,Wilson's Creek,Unknown,9,low,212,low,0
+WICR23,WICR,Wilson's Creek,Unknown,2,low,88,low,0
+WICR24,WICR,Wilson's Creek,Unknown,6,low,174,low,0
+WICR25,WICR,Wilson's Creek,Unknown,31,high,9,high,1
+WICR26,WICR,Wilson's Creek,Unknown,23,high,268,low,0
+WICR27,WICR,Wilson's Creek,Unknown,4,low,19,low,0
+WICR28,WICR,Wilson's Creek,Unknown,7,low,65,medium,0
+WICR29,WICR,Wilson's Creek,Unknown,3,low,12,low,0
+WICR3,WICR,Wilson's Creek,Unknown,4,low,163,low,0
+WICR30,WICR,Wilson's Creek,Unknown,3,low,74,low,0
+WICR31,WICR,Wilson's Creek,Unknown,NULL,Unknown,0,Unknown,0
+WICR32,WICR,Wilson's Creek,Unknown,4,low,100,low,0
+WICR33,WICR,Wilson's Creek,Unknown,7,low,230,low,0
+WICR34,WICR,Wilson's Creek,Unknown,4,low,228,low,0
+WICR35,WICR,Wilson's Creek,Unknown,2,low,110,low,0
+WICR36,WICR,Wilson's Creek,Unknown,5,low,241,low,0
+WICR37,WICR,Wilson's Creek,Unknown,10,low,270,low,0
+WICR38,WICR,Wilson's Creek,Unknown,NULL,Unknown,0,Unknown,0
+WICR4,WICR,Wilson's Creek,Unknown,2,medium,287,low,1
+WICR5,WICR,Wilson's Creek,Unknown,9,low,179,low,0
+WICR6,WICR,Wilson's Creek,Unknown,8,low,16,low,0
+WICR7,WICR,Wilson's Creek,Unknown,1,medium,314,low,1
+WICR8,WICR,Wilson's Creek,Unknown,4,low,317,low,0
+WICR9,WICR,Wilson's Creek,Unknown,2,low,327,low,0

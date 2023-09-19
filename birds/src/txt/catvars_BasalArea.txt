@@ -1,0 +1,4 @@
+attributeName	code	definition
+CanopyType	Conifer	
+CanopyType	Hardwood	
+CanopyType	Total	

@@ -1,0 +1,24 @@
+attributeName	code	definition
+Height	0 - 1 m	
+Height	1 - 2 m	
+Height	2 - 3 m	
+Height	3 - 4 m	
+Height	4 - 5 m	
+Height	5 - 6 m	
+Height	6 - 7 m	
+Height	7 - 7.5 m	
+ParkUnit	Agate Fossil Beds	
+ParkUnit	Arkansas Post	
+ParkUnit	Effigy Mounds	
+ParkUnit	George Washington Carver	
+ParkUnit	Herbert Hoover	
+ParkUnit	Homestead	
+ParkUnit	Hopewell Culture	
+ParkUnit	Lincoln Boyhood	
+ParkUnit	Pea Ridge	
+ParkUnit	Pipestone	
+ParkUnit	Tallgrass Prairie	
+ParkUnit	Wilson's Creek	
+Vegetation	Conifer	
+Vegetation	Deciduous	
+Vegetation	Herbaceous	

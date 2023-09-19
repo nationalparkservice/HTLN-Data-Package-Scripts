@@ -1,0 +1,24 @@
+attributeName	attributeDefinition	class	unit	dateTimeFormatString	missingValueCode	missingValueCodeExplanation
+ID		numeric	!Add units here!			
+Plot		character				
+Event		character				
+Temperature_C		numeric	!Add units here!			
+Wind		numeric	!Add units here!			
+Precip		numeric	!Add units here!			
+Percent_Cloud		numeric	!Add units here!			
+Noise		categorical				
+ObservationNumber		numeric	!Add units here!			
+Interval		categorical				
+AOUCode		categorical				
+TSN		categorical				
+Family		categorical				
+ScientificName		categorical				
+CommonName		categorical				
+Distance		categorical				
+DetectionType		categorical				
+Sex		categorical				
+Age		categorical				
+FlockSize		categorical				
+IsPreviousPlot		numeric	!Add units here!			
+IsFlyover		numeric	!Add units here!			
+Comments		categorical				

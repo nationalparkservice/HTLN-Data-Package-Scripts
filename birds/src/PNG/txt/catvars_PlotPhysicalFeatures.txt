@@ -1,0 +1,27 @@
+attributeName	code	definition
+AspectVariability	Unknown	
+AspectVariability	high	
+AspectVariability	low	
+AspectVariability	medium	
+HabitatType	Unknown	
+HabitatType	fallow field	
+HabitatType	prairie	
+HabitatType	riparian	
+HabitatType	shrubland	
+HabitatType	woodland	
+ParkUnit	Agate Fossil Beds	
+ParkUnit	Arkansas Post	
+ParkUnit	Effigy Mounds	
+ParkUnit	George Washington Carver	
+ParkUnit	Herbert Hoover	
+ParkUnit	Homestead	
+ParkUnit	Hopewell Culture	
+ParkUnit	Lincoln Boyhood	
+ParkUnit	Pea Ridge	
+ParkUnit	Pipestone	
+ParkUnit	Tallgrass Prairie	
+ParkUnit	Wilson's Creek	
+SlopeVariability	Unknown	
+SlopeVariability	high	
+SlopeVariability	low	
+SlopeVariability	medium	

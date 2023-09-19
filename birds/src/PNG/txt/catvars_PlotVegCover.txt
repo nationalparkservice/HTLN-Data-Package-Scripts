@@ -1,0 +1,54 @@
+attributeName	code	definition
+ParkUnit	Agate Fossil Beds	
+ParkUnit	Arkansas Post	
+ParkUnit	Effigy Mounds	
+ParkUnit	George Washington Carver	
+ParkUnit	Herbert Hoover	
+ParkUnit	Homestead	
+ParkUnit	Hopewell Culture	
+ParkUnit	Lincoln Boyhood	
+ParkUnit	Pea Ridge	
+ParkUnit	Pipestone	
+ParkUnit	Tallgrass Prairie	
+ParkUnit	Wilson's Creek	
+Range	1 - 5%	
+Range	25 - 50%	
+Range	5 - 25%	
+Range	50 - 75%	
+Range	75 - 95%	
+Range	95 - 100%	
+Range	trace - 1%	
+VegType	Brome Field	
+VegType	Corn Field	
+VegType	Disturbed Floodplain	
+VegType	Disturbed Prairie	
+VegType	Drainage	
+VegType	Fescue/Orchard Grass	
+VegType	Field/Prairie	
+VegType	Floodplain	
+VegType	Highway Right of Way	
+VegType	Intermittent Water Cover	
+VegType	Lawn	
+VegType	Old Field	
+VegType	Open Woodland	
+VegType	Other	
+VegType	Parking Lot	
+VegType	Pasture Road	
+VegType	Paved Road	
+VegType	Pond	
+VegType	Railroad Tracks	
+VegType	Restored Prairie	
+VegType	Riparian Prairie	
+VegType	Riparian Woodland	
+VegType	River Terraces	
+VegType	Seep	
+VegType	Shrub	
+VegType	Soybean Field	
+VegType	Stream	
+VegType	Trail	
+VegType	Tree Line	
+VegType	Upland Prairie	
+VegType	Western Wheatgrass	
+VegType	Wetland	
+VegType	Woodland	
+VegType	Woodland Swamp	

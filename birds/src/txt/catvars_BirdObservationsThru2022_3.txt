@@ -1,0 +1,53 @@
+attributeName	code	definition
+Age	Adult	
+Age	Immature	
+Age	Juv	
+Age	MisVal	
+Age	Unknown	
+DetectionType	Heard +5 min	
+DetectionType	Heard First	
+DetectionType	Heard Then Seen	
+DetectionType	Seen +5 min	
+DetectionType	Seen First	
+DetectionType	Unknown	
+Interval	0-3 min	
+Interval	>3-5 min	
+Interval	>5 min	
+Interval	Missing Value	
+Noise	Unknown	
+Noise	high noise	
+Noise	low noise	
+Noise	medium noise	
+Noise	quiet	
+NoiseSummary	Unknown	
+NoiseSummary	detection radius is probably substantially reduced	
+NoiseSummary	might be missing some high-pitched songs/calls of distant birds	
+NoiseSummary	normal background noises; no interference	
+NoiseSummary	probably detecting only the loudest/closest birds	
+Rain	Unknown	
+Rain	heavy rain	
+Rain	light drizzle	
+Rain	light rain	
+Rain	mist or fog	
+Rain	no rain	
+Rain	snow	
+Sex	Female	
+Sex	Male	
+Sex	NoVal	
+Sex	Unk	
+WindDesc	Unknown	
+WindDesc	calm, smoke rises vertically	
+WindDesc	fresh breeze, small trees sway	
+WindDesc	leaves and twigs in constant motion	
+WindDesc	light breeze felt on face, leaves rustle	
+WindDesc	small branches move, raises loose paper, dust rises	
+WindDesc	smoke drifts	
+WindDesc	strong breeze, large branches moving, wind whistling	
+WindSpeed	(13-19 km/h)	
+WindSpeed	(2-5 km/h)	
+WindSpeed	(20-29 km/h)	
+WindSpeed	(30-39 km/h)	
+WindSpeed	(40-50 km/h)	
+WindSpeed	(6-12 km/h)	
+WindSpeed	(< 2 km/h)	
+WindSpeed	Unknown	
