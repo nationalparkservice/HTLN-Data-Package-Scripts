@@ -1,3 +1,0 @@
-givenName	middleInitial	surName	organizationName	electronicMailAddress	userId	role	projectTitle	fundingAgency	fundingNumber
-David G. Peitz Heartland-I_M-Network david_peitz@npg.gov dpeitz creator Heartland-Network-Breeding-Bird-Monitoring-Program National-Park-Service base-funding
-

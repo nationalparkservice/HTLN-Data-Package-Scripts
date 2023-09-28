@@ -1,9 +1,0 @@
-attributeName	attributeDefinition	class	unit	dateTimeFormatString	missingValueCode	missingValueCodeExplanation
-ParkUnit	park name	character				
-Plot	plot id	character				
-SubPlot	subplot number	numeric				
-EventDate	event date	Date		yyyy-mm-dd		
-GroundCover	ground cover type	categorical				
-CoverClassCode	cover class code 	categorical				
-CoverClassMidPoint	midpoint	numeric	percent			
-CoverClassRange	cover class range type	categorical				
