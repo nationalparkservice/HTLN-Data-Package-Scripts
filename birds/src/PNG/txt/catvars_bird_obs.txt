@@ -1,8 +1,0 @@
-attributeName	code	definition
-Age	Adult	
-Comments	NULL	
-Event	WICRTweety2008May200609AM	
-Interval	>3-5 min	
-Interval	0-3 min	
-Plot	WICR1	
-Sex	Male	

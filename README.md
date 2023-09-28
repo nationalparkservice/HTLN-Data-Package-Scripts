@@ -7,6 +7,10 @@ datasets can be found at the NPS DataStore. Thanks for reading.
 
 # Notes
 
+20230922
+
+Community folders setup. Gather protocol docs. 
+
 20230919
 
 Migrating scripts for breeding bird data package. Data packages for other
