@@ -7,6 +7,10 @@ datasets can be found at the NPS DataStore. Thanks for reading.
 
 # Notes
 
+20230928
+
+Beginning flattening tables to export
+
 20230922
 
 Community folders setup. Gather protocol docs. 
