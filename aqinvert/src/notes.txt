@@ -1,8 +1,0 @@
-
-20231013
-
-Left off with discharge detail - need gauge discharge next...
-
-Habitat_RiffleSamples includes categorical data - the two LUTs are 
-tlu_RiffleCoverClass and tlu_WentworthSubstrateCodes
-
