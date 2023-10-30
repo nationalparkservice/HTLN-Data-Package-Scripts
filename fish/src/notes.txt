@@ -1,11 +1,24 @@
 
 20231019
 
-MWR Region Field IT call at 9:30 am
+Mike
+Changes in cost codes in Quicktime.
+
+Rob needs some help with DM workshop materials
+  and volunteers to help with remote participants
+Instructions for workshop participants
+R stuff that needs to be installed 
+
+
+
+
+MWR Region Field IT call at 9:30 am DONE
 
 Timesheets due today - DONE
 
-Continue with Data Packaging for HTLNFish data
+Continue with Data Packaging for HTLNFish 
+R training - continue with R4DS 2e
+
 
 
 20231018 
