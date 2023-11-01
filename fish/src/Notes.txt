@@ -1,0 +1,16 @@
+
+Habitat data tables requiring separate export queries
+
+tbl_BankMeasurementInfo
+tbl_ReachConditions
+tbl_FishCoverInfo
+tbl_CrossSectionInfo
+tbl_TransectSpacingInterval
+tbl_DischargeDetail
+tbl_ReachMeasurements
+tbl_DischargeGauge
+tbl_ShinerSubstrate
+tbl_ShinerRiparianCorridor
+
+
+
