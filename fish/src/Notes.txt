@@ -4,7 +4,7 @@ Habitat data tables requiring separate export queries
 x tbl_BankMeasurementInfo
 x tbl_ReachConditions
 x tbl_FishCoverInfo
-tbl_CrossSectionInfo
+x tbl_CrossSectionInfo
 tbl_TransectSpacingInterval
 tbl_DischargeDetail
 tbl_ReachMeasurements
