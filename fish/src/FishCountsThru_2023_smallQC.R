@@ -85,9 +85,66 @@ view(s)
 
 # Parsing problem here...
 
+# Caused by comma in LocationDescription string
+# Fix in csv file using Notepad++ 
+# Will have to fix in the all-records fishcount csv file
+
 fishcounts |>
   distinct(SamplingGear)
 
-fishcounts |>
-  distinct(LocationID, PeriodID, EventID, SamplingGear)
+f <- fishcounts |>
+  distinct(LocationID, PeriodID, LocationDescription)  |>
+  filter(LocationID == "BUFFRMFISHBT21")
+
+f <- fishcounts |>
+  filter(LocationID == "BUFFRMFISHBT21")
+
+view(f)
+
+
+# Sampling variables -----------------------------------------------------------
+
+s <- fishcounts |>
+  distinct(SamplingGear, ChannelType, ChannelTypeDescr, SiteNumber)
+
+view(s)  
+
+# SiteNumber appears to have value of 1 always - is this true for all records?
+# If so, should we omit SiteNumber??
+
+# Variable: TaaxaFishNumber ----------------------------------------------------
+
+f <- fishcounts |>
+  distinct(TaxaFishNumber)
+
+view(f)
+
+ggplot(fishcounts, aes(x = TaxaFishNumber)) + 
+  geom_bar
+
+# This histogram suggests something changed for fishcounts over 31... Did they
+# stop counting over 30 at somepoint??
+
+# Variable: TotalLength_mm ----------------------------------------------------
+
+f <- fishcounts |>
+  distinct(TotalLength_mm)
+
+view(f)
+
+ggplot(fishcounts, aes(x = TotalLength_mm)) + 
+  geom_bar()
+
+f <- fishcounts |>
+  filter(TotalLength_mm > 900)
+
+ggplot(f, aes(x = TotalLength_mm)) + 
+  geom_bar()
+
+view(f)
+
+# Variable: Vouchered ----------------------------------------------------------
+
+
+
 
