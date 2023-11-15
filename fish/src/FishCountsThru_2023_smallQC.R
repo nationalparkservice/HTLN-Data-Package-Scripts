@@ -1,10 +1,10 @@
 
 library(tidyverse)
-# library(data.table)
 
 fishcounts <- read_csv("./FishCountsThru_2023_small.csv")
 
-glimpse(fishcounts)
+view(fishcounts)
+
 
 # Variable: Parkname -----------------------------------------------------------
 
@@ -112,7 +112,7 @@ view(s)
 # SiteNumber appears to have value of 1 always - is this true for all records?
 # If so, should we omit SiteNumber??
 
-# Variable: TaaxaFishNumber ----------------------------------------------------
+# Variable: TaxaFishNumber ----------------------------------------------------
 
 f <- fishcounts |>
   distinct(TaxaFishNumber)
@@ -120,7 +120,7 @@ f <- fishcounts |>
 view(f)
 
 ggplot(fishcounts, aes(x = TaxaFishNumber)) + 
-  geom_bar
+  geom_bar()
 
 # This histogram suggests something changed for fishcounts over 31... Did they
 # stop counting over 30 at somepoint??
@@ -145,6 +145,29 @@ view(f)
 
 # Variable: Vouchered ----------------------------------------------------------
 
+fishcounts |>
+  distinct(Vouchered) 
 
+ggplot(fishcounts, aes(x = Vouchered)) + 
+  geom_bar()
+
+# Do we want to represent -1 and 0s as TRUE/FALSE 
+
+# Variable: NumObs -------------------------------------------------------------
+
+fishcounts |>
+  count(NumObs, sort = TRUE) |>
+  print(n = 204)
+
+f <- fishcounts |>
+  filter(NumObs > 1)
+
+ggplot(f, aes(x = NumObs)) +  
+  geom_bar()
+
+f <- fishcounts |>
+  arrange(desc(NumObs))
+
+view(f)
 
 
