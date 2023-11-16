@@ -3,6 +3,8 @@ library(tidyverse)
 
 fishcounts <- read_csv("./FishCountsThru_2023_small.csv")
 
+problems(fishcounts)
+
 view(fishcounts)
 
 

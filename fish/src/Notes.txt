@@ -1,4 +1,12 @@
 
+ 
+Need to spend some time pulling all the commas out of the database
+
+C:\Users\GRowell\work\Databases\DataPackages\Fish
+
+HTLNFish4.5.2_comma_cleaned.accdb
+
+
 Habitat data tables requiring separate export queries
 
 x tbl_BankMeasurementInfo
