@@ -1,7 +1,7 @@
 
 library(tidyverse)
 
-fishcounts <- read_csv("./FishCountsThru_2023_small.csv")
+fishcounts <- read_csv("./FishCountsThru_2023.csv")
 
 problems(fishcounts)
 
