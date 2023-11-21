@@ -5,7 +5,7 @@ fishcounts <- read_csv("./FishCountsThru_2023.csv")
 
 #problems(fishcounts)
 
-view(fishcounts)
+# view(fishcounts)
 
 
 # Variable: Parkname -----------------------------------------------------------
@@ -73,7 +73,7 @@ t <- fishcounts |>
            tbl_SamplingPeriods_EndDate, 
            EventID, tbl_SamplingEvents_StartDate, tbl_SamplingEvents_EndDate)
 
-view(t)
+# view(t)
 
 # Remove tbl_ from variable names above
 
@@ -82,7 +82,7 @@ view(t)
 s <- fishcounts |>
   select(SamplingGear, ChannelType, ChannelTypeDescr, SiteNumber)
 
-view(s)
+# view(s)
 
 
 fishcounts |>
@@ -94,7 +94,7 @@ fishcounts |>
 s <- fishcounts |>
   distinct(SamplingGear, ChannelType, ChannelTypeDescr, SiteNumber)
 
-view(s)  
+# view(s)  
 
 
 # Variable: TaxaFishNumber ----------------------------------------------------
@@ -102,7 +102,7 @@ view(s)
 f <- fishcounts |>
   distinct(TaxaFishNumber)
 
-view(f)
+# view(f)
 
 ggplot(fishcounts, aes(x = TaxaFishNumber)) + 
   geom_bar()
@@ -115,7 +115,7 @@ ggplot(fishcounts, aes(x = TaxaFishNumber)) +
 f <- fishcounts |>
   distinct(TotalLength_mm)
 
-view(f)
+# view(f)
 
 ggplot(fishcounts, aes(x = TotalLength_mm)) + 
   geom_bar()
@@ -126,7 +126,13 @@ f <- fishcounts |>
 ggplot(f, aes(x = TotalLength_mm)) + 
   geom_bar()
 
-view(f)
+# view(f)
+
+# Variables: AnomalyID, FishAnomalyDescr ---------------------------------------
+# Delete these variables, they are cleaned up below
+
+fishcounts |>
+  distinct(AnomalyID, FishAnomalyDescr)
 
 # Variable: Vouchered ----------------------------------------------------------
 
@@ -135,18 +141,6 @@ fishcounts |>
 
 ggplot(fishcounts, aes(x = Vouchered)) + 
   geom_bar()
-
-fishcounts <- fishcounts |> mutate( Vouchered_TF = Vouchered)
-
-f <- fishcounts |> 
-  replace(fishcounts$Vouchered_TF, fishcounts$Vouchered = -1, TRUE) |>
-  replace(fishcounts$Vouchered_TF, fishcounts$Vouchered = 0, FALSE)
-
-df$x <- replace(df$x, df$x > 4, 50) # <<<<<<<<<< STOPPED HERE
-
-
-
-# Do we want to represent -1 and 0s as TRUE/FALSE 
 
 # Variable: NumObs -------------------------------------------------------------
 
@@ -163,7 +157,7 @@ ggplot(f, aes(x = NumObs)) +
 f <- fishcounts |>
   arrange(desc(NumObs))
 
-view(f)
+# view(f)
 
 # Variables: BatchID and BatchWT_g ---------------------------------------------
 
@@ -182,7 +176,7 @@ f <- fishcounts |>
 ggplot(f, aes(x = BatchWT_g)) +  
   geom_histogram(binwidth = 10)
 
-view(f)
+# view(f)
 
 # Variable:tbl_FishCommSppIndiv_Comments ---------------------------------------
 
@@ -193,7 +187,49 @@ fishcounts |>
   print(n = 1000)
 
 
-distinct(LocationID, EventID, tbl_FishCommSppIndiv_Comments)  |>
+fishcounts |>
+  filter(!is.na(tbl_FishCommSppIndiv_Comments)) |>
+  distinct(tbl_FishCommSppIndiv_Comments)  |>
+  print(n = 1000)
+
+# Taxonomic variables ----------------------------------------------------------
+
+f <- fishcounts |>
+  distinct(TaxonCode, TSN, CommonName, FamilyName, ScientificName, tlu_TaxaSpecies_Comments)  |>
+  arrange(TaxonCode) |>
+  print(n = 137)
+
+# view(f)
+
+# Variables: Tolerance code, ToleranceDescription ------------------------------
+
+fishcounts |>
+  distinct(ToleranceCode, ToleranceDescription)
+
+# Variables: ReproductiveClassification and Reproductive Description
+
+fishcounts |>
+  distinct(ReproductiveClassification, ReproductiveDescription)
+
+# Variables: ClassNumber, TrophicClassification, TrophicDescription -------------------------
+
+fishcounts |>
+  distinct(ClassNumber, TrophicClassification, TrophicDescription)
+
+# Variables: FishAnomalyCode, FishDescrp ---------------------------------------
+
+fishcounts |>
+  distinct(FishAnomalyCode, FishAnomalyDescrp)
+
+# Variables: ParkSpecificCode, ParkSpecificDescription -------------------------
+
+fishcounts |>
+  distinct(ParkSpecificCode, ParkSpecificDescription)
+
+
+
+
+
 
 
 
