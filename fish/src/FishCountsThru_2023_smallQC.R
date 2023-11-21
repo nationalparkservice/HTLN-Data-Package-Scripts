@@ -1,9 +1,9 @@
 
 library(tidyverse)
 
-fishcounts <- read_csv("./FishCountsThru_2023_small.csv")
+fishcounts <- read_csv("./FishCountsThru_2023.csv")
 
-problems(fishcounts)
+#problems(fishcounts)
 
 view(fishcounts)
 
@@ -14,18 +14,20 @@ view(fishcounts)
 
 fishcounts |> distinct(ParkName)
 
-# bar chart looking at count by park unit - PASS?
-
-ParkName_factor <- factor(fishcounts$ParkName)
-
-ggplot(fishcounts, aes(x = ParkName_factor)) + 
-  geom_bar()
 
 # Variable: ParkCode -----------------------------------------------------------
 
 # Unique list - PASS
 
 fishcounts |> distinct(ParkCode)
+
+# bar chart looking at count by park unit - PASS?
+
+ParkCode_factor <- factor(fishcounts$ParkCode)
+
+ggplot(fishcounts, aes(x = ParkCode)) + 
+  geom_bar()
+
 
 
 # Variables: LocationID, LocationNumber, LocationType, LocationDescription -----
@@ -45,10 +47,10 @@ fishcounts |> distinct(LocationDescription) |>
 # Variables: StreamName, TributaryName, County ---------------------------------
 
 fishcounts |> distinct(StreamName) |> 
-  print(n = 40)
+  print(n = 96)
 
 fishcounts |> distinct(TributaryName) |> 
-  print(n = 40)
+  print(n = 46)
 
 fishcounts |> distinct(County) |> 
   print(n = 40)
@@ -59,13 +61,10 @@ fishcounts |> distinct(County) |>
 fishcounts |> distinct(LocationID,StretchNumber) |> 
   print(n = 40) 
 
-#Can I omit StretchNumber?? I think it was used only to designate the
-# original stretch locations in GRITS.
 
 fishcounts |> distinct(LocationID,ReachID) |>  
-  print(n = 40)
-#  What is T21 -> 241?
-#  Do stream id's correspond to Dave's descriptions
+  print(n = 109)
+
 
 # Variables: PeriodID, EventID and related variables ---------------------------
 
@@ -85,23 +84,9 @@ s <- fishcounts |>
 
 view(s)
 
-# Parsing problem here...
-
-# Caused by comma in LocationDescription string
-# Fix in csv file using Notepad++ 
-# Will have to fix in the all-records fishcount csv file
 
 fishcounts |>
   distinct(SamplingGear)
-
-f <- fishcounts |>
-  distinct(LocationID, PeriodID, LocationDescription)  |>
-  filter(LocationID == "BUFFRMFISHBT21")
-
-f <- fishcounts |>
-  filter(LocationID == "BUFFRMFISHBT21")
-
-view(f)
 
 
 # Sampling variables -----------------------------------------------------------
@@ -111,8 +96,6 @@ s <- fishcounts |>
 
 view(s)  
 
-# SiteNumber appears to have value of 1 always - is this true for all records?
-# If so, should we omit SiteNumber??
 
 # Variable: TaxaFishNumber ----------------------------------------------------
 
@@ -171,5 +154,36 @@ f <- fishcounts |>
   arrange(desc(NumObs))
 
 view(f)
+
+# Variables: BatchID and BatchWT_g ---------------------------------------------
+
+fishcounts |>
+  distinct(BatchID) 
+
+fishcounts |>
+  distinct(BatchWT_g) 
+
+ggplot(fishcounts, aes(x = BatchWT_g)) +  
+  geom_histogram(binwidth = 10)
+
+f <- fishcounts |>
+  filter(BatchWT_g > 150)
+
+ggplot(f, aes(x = BatchWT_g)) +  
+  geom_histogram(binwidth = 10)
+
+view(f)
+
+# Variable:tbl_FishCommSppIndiv_Comments ---------------------------------------
+
+fishcounts |>
+  filter(!is.na(tbl_FishCommSppIndiv_Comments)) |>
+  filter((LocationID == "BUFFRMFISHBM05")&(EventID == "BUFFRMFISH2006JUN12")) |>
+  select(LocationID, EventID, tbl_FishCommSppIndiv_Comments) |>
+  print(n = 1000)
+
+
+distinct(LocationID, EventID, tbl_FishCommSppIndiv_Comments)  |>
+
 
 
