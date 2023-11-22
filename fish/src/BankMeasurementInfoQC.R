@@ -3,7 +3,7 @@ library(tidyverse)
 
 bankmeasures <- read_csv("./FishHabitat_BankMeasurementInfo.csv")
 
-problems(bankmeasures)
+# problems(bankmeasures)
 
 view(bankmeasures)
 
@@ -74,10 +74,75 @@ t <- bankmeasures |>
            tbl_SamplingPeriods_EndDate, 
            EventID, tbl_SamplingEvents_StartDate, 
            tbl_SamplingEvents_EndDate, EventComments)
+
  view(t)
 
-
+# Variables: ChannelType and ChannelTypeDescr ----------------------------------
  
+ bankmeasures |> distinct(ChannelType, ChannelTypeDescr)
+ 
+ 
+ # Variables: TransectNumber, SampleLocation, SampleLocationDescr --------------
+ 
+ bankmeasures |> 
+   distinct(TransectNumber, SampleLocation, SampleLocationDescr) |>  
+   print(n = 22)
+ 
+ 
+ # Variables: tbl_SamplingPeriods_Season and tbl_BankMeasurementInfo_Season ----
+ 
+ bankmeasures |>
+   distinct(tbl_SamplingPeriods_Season, tbl_BankMeasurementInfo_Season)
+ 
+
+ # Omit tbl_BankMeasurementInfo_Season
+ 
+ 
+ 
+ # Variables: BankAngle, BankAngleDescr ----------------------------------------
+ 
+ bankmeasures |>
+   distinct(BankAngle, BankAngleDescr)
+ 
+ 
+ # Variables: BankVegCover, BankVegCoverDescr ---------------------------------
+ 
+ bankmeasures |>
+   distinct(BankVegCover, BankVegCoverDescr)
+ 
+ 
+ # Variables: BankHeight, BankHeightDescr -------------------------------------
+ 
+ bankmeasures |>
+   distinct(BankHeight, BankHeightDescr)
+ 
+ # Variables: BankSubstrate, BankSubstrateDescr -------------------------------
+ 
+ bankmeasures |>
+   distinct(BankSubstrate, BankSubstrateDescr)
+ 
+ 
+ # Variables: True/False Variables ---------------------------------------------
+ 
+ bankmeasures |>
+   distinct(LargeTrees_TR)
+ 
+ bankmeasures |>
+   distinct(SmTreesShrubs_SH)
+ 
+ bankmeasures |>
+   distinct(GrassForbes_GR)
+ 
+ bankmeasures |>
+   distinct(BareRockSediment_BA)
+ 
+ bankmeasures |>
+   distinct(Artificial_AR)
+ 
+ # Variable: Comment
+ 
+ bankmeasures |>
+   distinct(Comment)
  
  
  
