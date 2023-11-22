@@ -1,6 +1,11 @@
 
+
+Use only Season from SamplingPeriods
+
+Need to include EventComments in each new habitat export.
+
+Each habitat csv will need to be exported again to bring over the comma -> periods.
  
-Need to spend some time pulling all the commas out of the database
 
 C:\Users\GRowell\work\Databases\DataPackages\Fish
 
