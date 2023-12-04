@@ -134,8 +134,17 @@ t <- crosssectioninfo |>
  c <- crosssectioninfo |>
    filter(Velocity_ms > 0)
  
- ggplot(c, aes(x = Depth_cm)) +
-   geom_histogram(binwidth = 5)
+ ggplot(c, aes(x = Velocity_ms)) +
+   geom_histogram(binwidth = 0.01)
+ 
+ 
+ c <- crosssectioninfo |>
+   filter(Velocity_ms > 10)
+ 
+ 
+ ggplot(c, aes(x = Velocity_ms)) +
+   geom_histogram(binwidth = 0.1
+ 
  
  # Variables: Substrate measures
  
@@ -147,7 +156,7 @@ t <- crosssectioninfo |>
    geom_histogram(binwidth = 1)
  
  c <- crosssectioninfo |>
-   filter(DomSubstrate  > 0)
+   filter(DomSubstrate  > 10)
  
  ggplot(c, aes(x = DomSubstrate)) +
           geom_histogram(binwidth = 1) 
