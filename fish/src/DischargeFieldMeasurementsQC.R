@@ -59,11 +59,11 @@ dischargemeasures |> distinct(County) |>
 # Variables: StretchNumber, ReachID --------------------------------------------
 
 
-dischargemeasures |> distinct(LocationID,StretchNumber) |> 
+dischargemeasures |> distinct(StretchNumber) |> 
   print(n = 108) 
 
 
-dischargemeasures |> distinct(LocationID,ReachID) |>  
+dischargemeasures |> distinct(ReachID) |>  
   print(n = 109)
 
 
@@ -116,49 +116,20 @@ ggplot(c, aes(x = Depth_cm)) +
   geom_histogram(binwidth = 1)
 
 
- 
- # Variables: PoolForm, Width_m, Depth_m. Velocity_ms --------------------------
- 
- # What are PoolForms? Didn't see a lookup for that????
- 
- dischargemeasures |>
-   distinct(PoolForm, Width_m, Depth_cm, Velocity_ms)
- 
- # Width_m
- 
- ggplot(dischargemeasures, aes(x = Width_m)) +
-   geom_histogram(binwidth = 1)
- 
- c <- dischargemeasures |>
-   filter(Width_m > 0)
- 
- ggplot(c, aes(x = Width_m)) +
-   geom_histogram(binwidth = 1)
- 
- # Depth_m
- 
- ggplot(dischargemeasures, aes(x = Depth_cm)) +
-   geom_histogram(binwidth = 1)
- 
- c <- dischargemeasures |>
-   filter(Depth_cm > 0)
- 
- ggplot(c, aes(x = Depth_cm)) +
-   geom_histogram(binwidth = 5)
- 
- # Velocity_ms
- 
- ggplot(dischargemeasures, aes(x = Velocity_ms)) +
-   geom_histogram(binwidth = 1)
- 
- 
- c <- dischargemeasures |>
-   filter(Velocity_ms > 0)
- 
- ggplot(c, aes(x = Velocity_ms)) +
-   geom_histogram(binwidth = 0.01)
- 
- # Variable: Comments
+# Variable: Velocity_ms -------------------------------------
+
+
+ggplot(dischargemeasures, aes(x = Velocity_ms)) +
+  geom_histogram
+
+c <- dischargemeasures |>
+  filter(Velocity_ms > 0)
+
+ggplot(c, aes(x = Velocity_ms)) +
+  geom_histogram(binwidth = 0.01)
+
+
+ # Variable: Comments -------------------------------------
  
  dischargemeasures |>
    distinct(Comments)  |>  
@@ -171,51 +142,9 @@ ggplot(c, aes(x = Depth_cm)) +
    print(n = 45)
  
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
