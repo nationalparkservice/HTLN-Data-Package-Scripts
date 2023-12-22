@@ -3,7 +3,7 @@ library(tidyverse)
 
 fishcounts <- read_csv("./FishCountsThru_2023.csv")
 
-#problems(fishcounts)
+problems(fishcounts)
 
 # view(fishcounts)
 
@@ -27,80 +27,30 @@ ggplot(fishcounts, aes(x = ParkCode)) +
 
 
 
-# Variables: LocationID, LocationNumber, LocationType, LocationDescription -----
+# Variable: LocationID --------------------------------------------------------
 
 fishcounts |> distinct(LocationID) |> 
-  print(n = 39)
-
-fishcounts |> distinct(LocationNumber) |> # Can I omit LocationNumber??
-  print(n = 40)
-
-fishcounts |> distinct(LocationType) |> 
-  print(n = 40)
-
-fishcounts |> distinct(LocationDescription) |> 
-  print(n = 40)
-
-# Variables: StreamName, TributaryName, County ---------------------------------
-
-fishcounts |> distinct(StreamName) |> 
-  print(n = 96)
-
-fishcounts |> distinct(TributaryName) |> 
-  print(n = 46)
-
-fishcounts |> distinct(County) |> 
-  print(n = 40)
-
-# Variables: StretchNumber, ReachID --------------------------------------------
-
-
-fishcounts |> distinct(LocationID,StretchNumber) |> 
-  print(n = 40) 
-
-
-fishcounts |> distinct(LocationID,ReachID) |>  
   print(n = 109)
 
 
-# Variables: PeriodID, EventID and related variables ---------------------------
+# Variables PeriodID and EventID  ---------------------------
 
-t <- fishcounts |>
-  distinct(PeriodID, Season, tbl_SamplingPeriods_StartDate, 
-           tbl_SamplingPeriods_EndDate, 
-           EventID, tbl_SamplingEvents_StartDate, tbl_SamplingEvents_EndDate, 
-           EventComments)
+fishcounts |> distinct(PeriodID) |> 
+  print(n = 120)
 
-view(t)
-
-# Remove tbl_ from variable names above
-
-# Sampling variables -----------------------------------------------------------
-
-s <- fishcounts |>
-  select(SamplingGear, ChannelType, ChannelTypeDescr, SiteNumber)
-
-view(s)
-
-
-fishcounts |>
-  distinct(SamplingGear)
-
+fishcounts |> distinct(EventID) |> 
+  print(n = 399)
 
 # Sampling variables -----------------------------------------------------------
 
 s <- fishcounts |>
   distinct(SamplingGear, ChannelType, ChannelTypeDescr, SiteNumber)
 
-view(s)  
+view(s)
 
 
 # Variable: TaxaFishNumber ----------------------------------------------------
 
-f <- fishcounts |>
-  distinct(TaxaFishNumber)
-
-view(f)
 
 ggplot(fishcounts, aes(x = TaxaFishNumber)) + 
   geom_bar()
@@ -152,20 +102,20 @@ f <- fishcounts |>
 ggplot(f, aes(x = NumObs)) +  
   geom_bar()
 
-f <- fishcounts |>
-  arrange(desc(NumObs))
-
-# view(f)
 
 # Variables: BatchID and BatchWT_g ---------------------------------------------
 
 fishcounts |>
   distinct(BatchID) 
 
-fishcounts |>
-  distinct(BatchWT_g) 
+fishcounts |> distinct(BatchWT_g) |>
+  print(n = 410)
 
-ggplot(fishcounts, aes(x = BatchWT_g)) +  
+
+f <- fishcounts |>
+  filter(BatchWT_g > 1)
+
+ggplot(f, aes(x = BatchWT_g)) +  
   geom_histogram(binwidth = 10)
 
 f <- fishcounts |>
