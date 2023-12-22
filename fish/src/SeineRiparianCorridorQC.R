@@ -3,7 +3,7 @@ library(tidyverse)
 
 seineriparian <- read_csv("./FishHabitat_SeineRiparianCorridor.csv")
 
-problems(seineriparian)  <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< stopped here
+problems(seineriparian) 
 
 view(seineriparian)
 
