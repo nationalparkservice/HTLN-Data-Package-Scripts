@@ -7,7 +7,7 @@ problems(locationdetails)
 
 view(locationdetails)
 
-glimpse(locationdetails)  <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< stopped here 12/27/2023
+glimpse(locationdetails) 
 
 
 # Variable: Parkname -----------------------------------------------------------
@@ -27,59 +27,43 @@ locationdetails |> distinct(ParkCode)
 ggplot(locationdetails, aes(x = ParkCode)) + 
   geom_bar()
 
-# Variable: LocationID --------------------------------------------------------
+
+# Variables: LocationID, LocationNumber, LocationType, LocationDescription -----
   
-  locationdetails |> distinct(LocationID) |> 
-  print(n = 80)
+locationdetails |> distinct(LocationID) |> 
+  print(n = 118)
 
-# Variables PeriodID and EventID  ---------------------------
+locationdetails |> distinct(LocationNumber) |> 
+  print(n = 40)
 
-locationdetails |> distinct(PeriodID) |> 
-  print(n = 73)
-
-locationdetails |> distinct(EventID) |> 
-  print(n = 296)
-
-# Variables: TransectNumber, SampleLocation, SampleLocationDescr  -------------
- 
- locationdetails |> distinct(TransectNumber)
- 
- locationdetails |> distinct(SampleLocation, SampleLocationDescr)
- 
- 
- # Variables: ChannelType, ChannelTypeDescr  -------------
- 
- locationdetails |> distinct(ChannelType, ChannelTypeDescr)
- 
- # True/False Cover Info --------------------------------------
- 
- locationdetails |> distinct(HydroMoss_HY)
- 
- locationdetails |> distinct(Boulders_BO)
- 
- locationdetails |> distinct(Artificial_AR)
- 
- locationdetails |> distinct(SmallWoodDeb_SWD)
- 
- locationdetails |> distinct(LargeWoodDeb_LWD)
- 
- locationdetails |> distinct(TreesRoots_TR)
- 
- locationdetails |> distinct(OverhangVeg_OV)
- 
- locationdetails |> distinct(UndercutBank_UC)
- 
- locationdetails |> distinct(Bluff_BL)
- 
- # Comment ----------------------------------------------------
-
-locationdetails |> 
-  distinct(Comment) |>  
-  print(n = 225)
+locationdetails |> distinct(LocationType) |> 
+  print(n = 4)
 
 
+# Variables: StreamName, TributaryName, County ---------------------------------
 
- 
- 
- 
+locationdetails |> distinct(StreamName) |> 
+  print(n = 101)
 
+locationdetails |> distinct(TributaryName) |> 
+  print(n = 51)
+
+locationdetails |> distinct(County) |> 
+  print(n = 15)
+
+# Variables: StretchNumber, ReachID, ReachLength_m, StreamWatershedArea -------
+
+
+locationdetails |> distinct(StretchNumber) |> 
+  print(n = 68) 
+
+locationdetails |> distinct(ReachID) |>  
+  print(n = 118)
+
+locationdetails |> distinct(ReachLength_m) |>  
+  print(n = 34)
+
+locationdetails |> distinct(StreamWatershedArea_sqkm) |>  
+  print(n = 52)
+
+glimpse(locationdetails)
