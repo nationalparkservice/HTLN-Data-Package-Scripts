@@ -78,7 +78,7 @@ crosssectioninfo |> distinct(EventID) |>
  ggplot(c, aes(x = Width_m)) +
    geom_histogram(binwidth = 1)
  
- # Depth_m <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<   stopped here 12/26/23
+ # Depth_m 
   
  ggplot(crosssectioninfo, aes(x = Depth_cm)) +
    geom_histogram(binwidth = 1)
@@ -107,7 +107,7 @@ crosssectioninfo |> distinct(EventID) |>
  
  
  ggplot(c, aes(x = Velocity_ms)) +
-   geom_histogram(binwidth = 0.1
+   geom_histogram(binwidth = 0.1)
  
  
  # Variables: Substrate measures
@@ -120,7 +120,7 @@ crosssectioninfo |> distinct(EventID) |>
    geom_histogram(binwidth = 1)
  
  c <- crosssectioninfo |>
-   filter(DomSubstrate  > 10)
+   filter(DomSubstrate  > 0)
  
  ggplot(c, aes(x = DomSubstrate)) +
           geom_histogram(binwidth = 1) 

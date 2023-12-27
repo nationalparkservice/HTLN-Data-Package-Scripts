@@ -5,7 +5,9 @@ fishcounts <- read_csv("./FishCountsThru_2023.csv")
 
 problems(fishcounts)
 
-# view(fishcounts)
+glimpse(fishcounts)
+
+view(fishcounts)
 
 
 # Variable: Parkname -----------------------------------------------------------
@@ -31,7 +33,6 @@ ggplot(fishcounts, aes(x = ParkCode)) +
 
 fishcounts |> distinct(LocationID) |> 
   print(n = 109)
-
 
 # Variables PeriodID and EventID  ---------------------------
 
@@ -65,7 +66,7 @@ f <- fishcounts |>
 
 view(f)
 
-ggplot(fishcounts, aes(x = TotalLength_mm)) + 
+ggplot(arcsin(fishcounts), aes(x = TotalLength_mm)) + 
   geom_bar()
 
 f <- fishcounts |>
